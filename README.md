@@ -369,7 +369,7 @@
  <tr height="18" style="height:13.8pt">
   <td height="18" style="height:13.8pt"><a href="https://arxiv.org/abs/2111.15263">MATRN</a></td>
   <td align="right">2021</td>
-  <td class="xl65" style="color: red;"><strong>96.7</strong></td>
+  <td class="xl65" style="color:red;"><strong>96.7</strong></td>
   <td class="xl65"><strong>94.9</strong></td>
   <td class="xl65"><strong>97.9</strong></td>
   <td class="xl65"><strong>95.8</strong></td>
