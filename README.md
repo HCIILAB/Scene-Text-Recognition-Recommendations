@@ -238,7 +238,7 @@ Papers, Datasets, Algorithms, SOTA for STR. Long-time Maintaining
  </tr>
  <tr height="18" style="height:13.8pt">
   <td height="18" style="height:13.8pt"><a href="https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9">RobustScanner</a><span style="display:none">
-  [29]</span></td>
+  </span></td>
   <td align="right">2020</td>
   <td class="xl65">95.3</td>
   <td class="xl65">88.1</td>
