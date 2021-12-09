@@ -12,7 +12,7 @@
    <strong><a href="#code">Code </a></strong>
 </p>
 
-- **This is a long-time maintaining Project which aims to provide insights for everyone who is interested in scene text recognition. Looking for your collective contribution, if interested, please contact me : [MountChiken🤠](https://github.com/Mountchicken)**
+- **This is a long-time maintaining Project which aims to provide insights for everyone who is interested in scene text recognition. Looking for your collective contribution, if interested, please contact me : [MountChicken🤠](https://github.com/Mountchicken)**
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
