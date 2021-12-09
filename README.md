@@ -1,6 +1,3 @@
-# Scene-Text-Recognition-Recommendations
-Papers, Datasets, Algorithms, SOTA for STR. Long-time Maintaining
-
 # Scene Text Recognition Recommendations 
 <h1 align="center">
     <br>
