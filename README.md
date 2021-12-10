@@ -25,14 +25,14 @@
 **[All Papers Can be Find Here](./papers.md)**
 **Latest Papers**:
 
-<details>
+<details open>
 <summary><strong>up to (2021-12-8)</strong></summary>
 
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
 
 </details>
 
-<details>
+<details open>
 <summary><strong>up to (2021-12-3)</strong></summary>
 
 - **arXiv-2021/11/30**:[Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features](https://arxiv.org/pdf/2111.15263.pdf)
@@ -45,7 +45,7 @@
 
 </details>
 
-<details>
+<details open>
 <summary><strong>up to (2021-11-25)</strong></summary>
 
 - **ICCV-2021** [Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Joint_Visual_Semantic_Reasoning_Multi-Stage_Decoder_for_Text_Recognition_ICCV_2021_paper.html)
