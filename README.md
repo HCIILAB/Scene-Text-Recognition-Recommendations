@@ -23,7 +23,7 @@
 - [4.SOTA](#4sota)
 ## 1.Papers
 **[All Papers Can be Find Here](./papers.md)**
-**Latest Papers**:
+- **Latest Papers**:
 
 <details open>
 <summary><strong>up to (2021-12-8)</strong></summary>
