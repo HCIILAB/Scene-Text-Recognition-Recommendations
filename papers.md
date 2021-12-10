@@ -10,7 +10,7 @@
   - [Attention](#attention)
   - [Rectification](#rectification)
   - [Language Model](#language)
-  - [Dataset](#daaset)
+  - [Dataset](#dataset)
   - [Data Augmentation](#augmentation)
   - [Survey](#survey)
   - [Others](#others)
@@ -149,10 +149,13 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 
 - **CVPR-2020, 引用数:21**:[UnrealText: Synthesizing realistic scene text images from the unreal world](https://arxiv.org/abs/2003.10608)
   - 虚幻引擎来渲染文字图像
-  
+
+- **CVPR-2016, 引用数:979**:[Synthetic data for text localisation in natural images](https://openaccess.thecvf.com/content_cvpr_2016/html/Gupta_Synthetic_Data_for_CVPR_2016_paper.html)
+  - SynthText数据集
 </details>
 
-
+- **NIPS-2014, 引用数:737**:[Synthetic data and artificial neural net?works for natural scene text recognition](https://arxiv.org/abs/1406.2227)
+  - MJ数据集
 ****
 <details open>
 <summary id='augmentation'><strong>Data Augmentation</strong></summary>
@@ -250,6 +253,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 - **CVPR-2016, 引用数:370**:[Recursive recurrent nets with attention modeling for OCR in the wild](https://openaccess.thecvf.com/content_cvpr_2016/html/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.html)
 - **CVPR-2016, 引用数:415**:[Robust Scene Text Recognition With Automatic Rectification](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html)
   - TPS矫正+Attention
+- **CVPR-2016, 引用数:979**:[Synthetic data for text localisation in natural images](https://openaccess.thecvf.com/content_cvpr_2016/html/Gupta_Synthetic_Data_for_CVPR_2016_paper.html)
+  - SynthText数据集
 
 </details>
 
@@ -315,7 +320,9 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 - **NIPS-2018,引用数:25**:[Connectionist Temporal Classification with Maximum Entropy Regularization](https://papers.nips.cc/paper/2018/hash/e44fea3bec53bcea3b7513ccef5857ac-Abstract.html)
 - **NIPS-2017, 引用数:105**:[Gated recurrent convolution neural network for OCR](https://islab.ulsan.ac.kr/files/announcement/653/6637-gated-recurrent-convolution-neural-network-for-ocr.pdf)
   - GRCNN
-
+- **NIPS-2014, 引用数:737**:[Synthetic data and artificial neural net?works for natural scene text recognition](https://arxiv.org/abs/1406.2227)
+  - MJ数据集
+  - 
 </details>
 
 ****
@@ -324,13 +331,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='others1'><strong>Others</strong></summary>
 
-- **IJCV-2021, 引用数:156**:[Scene text detection and recognition: The deep learning era](https://link.springer.com/article/10.1007/s11263-020-01369-0)
-- **Neural Computing-2020, 引用数:17**:[Adaptive embedding gate for attention-based scene text recognition](https://www.sciencedirect.com/science/article/pii/S0925231219316510)
-- **IEEE Access-2019,引用数:30**:[Natural Scene Text Recognition Based on Encoder-Decoder Framework](https://ieeexplore.ieee.org/abstract/document/8713973)
   - Attention的解码时候的对齐是没有限制的，故引入CTC对Attention的对齐进行监督
 - **ACM MM-2018, 引用数:44**:[Attention and language ensemble for scene text recognition with convolutional sequence modeling](https://dl.acm.org/doi/abs/10.1145/3240508.3240571)
-- **Neural Computing-2018, 引用数:41**:[Reading scene text with fully convolutional sequence modeling](https://www.sciencedirect.com/science/article/pii/S0925231219301870)
-  - Attention算法使用RNN建模，计算复杂并且较难训练，本文使用全卷积网络来捕获全局信息，比BiLSTM更加有效
 - **IJCAI-2017, 引用数:124**:[Learning to read irregular text with attention mechanisms](http://personal.psu.edu/duh188/papers/Learning_to_Read_Irregular_Text_with_Attention_Mechanisms.pdf)
 - **BMVC-2016,引用数:136**:[STAR-Net: A spatial attention residue network for scene text recognition](http://cdn.iiit.ac.in/cdn/preon.iiit.ac.in/~scenetext/files/papers/liu_bmvc16.pdf)
 
@@ -366,3 +368,9 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 </details>
 
 ### Others
+
+- **IJCV-2021, 引用数:156**:[Scene text detection and recognition: The deep learning era](https://link.springer.com/article/10.1007/s11263-020-01369-0)
+- **Neural Computing-2020, 引用数:17**:[Adaptive embedding gate for attention-based scene text recognition](https://www.sciencedirect.com/science/article/pii/S0925231219316510)
+- **IEEE Access-2019,引用数:30**:[Natural Scene Text Recognition Based on Encoder-Decoder Framework](https://ieeexplore.ieee.org/abstract/document/8713973)
+- **Neural Computing-2018, 引用数:41**:[Reading scene text with fully convolutional sequence modeling](https://www.sciencedirect.com/science/article/pii/S0925231219301870)
+  - Attention算法使用RNN建模，计算复杂并且较难训练，本文使用全卷积网络来捕获全局信息，比BiLSTM更加有效
