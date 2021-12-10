@@ -4,7 +4,7 @@
     <img src="img/head.JPG" >
 </h1>
 
-<h4 align="center">Everything about Scene Text Recognition</h4>
+<h4 align="center">Everythin about Scene Text Recognition</h4>
 <p align="center">
    <strong><a href="#sota">SOTA </a></strong> •
    <strong><a href="./papers.md">Papers </a></strong> •
@@ -12,7 +12,6 @@
    <strong><a href="#code">Code </a></strong>
 </p>
 
-- **This is a long-time maintaining Project which aims to provide insights for everyone who is interested in scene text recognition. Looking for your collective contribution, if interested, please contact me : [MountChicken🤠](https://github.com/Mountchicken)**
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
@@ -26,14 +25,14 @@
 **[All Papers Can be Find Here](./papers.md)**
 **Latest Papers**:
 
-<details open>
+<details>
 <summary><strong>up to (2021-12-8)</strong></summary>
 
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
 
 </details>
 
-<details open>
+<details>
 <summary><strong>up to (2021-12-3)</strong></summary>
 
 - **arXiv-2021/11/30**:[Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features](https://arxiv.org/pdf/2111.15263.pdf)
@@ -46,7 +45,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>up to (2021-11-25)</strong></summary>
 
 - **ICCV-2021** [Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Joint_Visual_Semantic_Reasoning_Multi-Stage_Decoder_for_Text_Recognition_ICCV_2021_paper.html)
@@ -183,6 +182,37 @@
 
  </tr>
  <tr height="18" style="height:13.8pt">
+  <td height="18" style="height:13.8pt"><a href="https://ieeexplore.ieee.org/abstract/document/7801919">CRNN</a><span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td align="right">2015</td>
+  <td class="xl65">78.2</td>
+  <td class="xl65">80.8</td>
+  <td class="xl65">-</td>
+  <td class="xl65">86.7</td>
+  <td class="xl65">-</td>
+  <td class="xl65">-</td>
+  <td class="xl65">-</td>
+  <td class="xl65">-</td>
+
+ </tr>
+
+ </tr>
+ <tr height="18" style="height:13.8pt">
+  <td height="18" style="height:13.8pt"><a href="https://ieeexplore.ieee.org/abstract/document/8395027">ASTER(L2R)</a><span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td align="right">2015</td>
+  <td class="xl65">92.67</td>
+  <td class="xl65">91.16</td>
+  <td class="xl65">-</td>
+  <td class="xl65">90.74</td>
+  <td class="xl65">76.1</td>
+  <td class="xl65">-</td>
+  <td class="xl65">78.76</td>
+  <td class="xl65">76.39</td>
+
+ </tr>
+
+
+ </tr>
+ <tr height="18" style="height:13.8pt">
   <td height="18" style="height:13.8pt"><a href="https://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html">CombBest</a><span style="mso-spacerun:yes">&nbsp;</span></td>
   <td align="right">2019</td>
   <td class="xl65">87.9</td>
@@ -195,6 +225,7 @@
   <td class="xl65">74</td>
 
  </tr>
+
  <tr height="18" style="height:13.8pt">
   <td height="18" style="height:13.8pt"><a href="https://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html">ESIR</a></td>
   <td align="right">2019</td>
@@ -236,7 +267,7 @@
  </tr>
  <tr height="18" style="height:13.8pt">
   <td height="18" style="height:13.8pt"><a href="https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9">RobustScanner</a><span style="display:none">
-  </span></td>
+  [29]</span></td>
   <td align="right">2020</td>
   <td class="xl65">95.3</td>
   <td class="xl65">88.1</td>
@@ -369,7 +400,7 @@
  <tr height="18" style="height:13.8pt">
   <td height="18" style="height:13.8pt"><a href="https://arxiv.org/abs/2111.15263">MATRN</a></td>
   <td align="right">2021</td>
-  <td class="xl65"><strong style="color:#FF0000">96.7</strong></td>
+  <td class="xl65"><strong>96.7</strong></td>
   <td class="xl65"><strong>94.9</strong></td>
   <td class="xl65"><strong>97.9</strong></td>
   <td class="xl65"><strong>95.8</strong></td>
@@ -395,3 +426,6 @@
  </tr>
  <!--[endif]-->
 </tbody></table>
+
+### [Baek's](https://openaccess.thecvf.com/content_ICCV_2019/html/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.html) Reimplementation Version
+![img](img/sota_baek.JPG)
