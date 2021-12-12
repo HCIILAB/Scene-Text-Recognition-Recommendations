@@ -126,6 +126,17 @@
   - 可自定义四阶段组件，如CRNN，ASTER
   - 容易上手，**推荐使用**
 ****
+#### DAVAR-Lab-OCR (海康威视)
+- [hikopensource/DAVAR-Lab-OCR](https://github.com/hikopensource/DAVAR-Lab-OCR)
+- **特性**:
+  - 基于mmocr搭建，复现了一些算法，同时将来会用于海康自研算法开源
+- **支持算法(识别)**
+  * Attention(CVPR 2016)
+  * CRNN(TPAMI 2017)
+  * ACE(CVPR 2019)
+  * SPIN(AAAI 2021)
+  * RF-Learning(ICDAR 2021)
+****
 ### 3.2. Algorithms
 #### CRNN
 - ***Lua, Offical, 1.9k⭐***: [bgshih/crnn](https://github.com/bgshih/crnn)
