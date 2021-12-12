@@ -185,6 +185,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **AAAI-2021,引用数:**:[SPIN: Structure-Preserving Inner Offset Network for Scene Text Recognition](https://arxiv.org/abs/2005.13117)
+  - 图片送入网络前先在颜色上进行矫正
 - **ICCV Workshop-2021**:[Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/html/Qiu_Meta_Self-Learning_for_Multi-Source_Domain_Adaptation_A_Benchmark_ICCVW_2021_paper.html)
   - 构建了一个多域的中文数据集，定义为Domain Adaptation问题
 - **ICCV-2021, 引用数:3**:[Towards the Unseen: Iterative Text Recognition by Distilling from Errors](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Towards_the_Unseen_Iterative_Text_Recognition_by_Distilling_From_Errors_ICCV_2021_paper.html)
@@ -298,6 +300,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='aaai'><strong>AAAI</strong></summary>
 
+- **AAAI-2021,引用数:**:[SPIN: Structure-Preserving Inner Offset Network for Scene Text Recognition](https://arxiv.org/abs/2005.13117)
+  - 图片送入网络前先在颜色上进行矫正
 - **AAAI-2020,引用数:27**:[GTC: Guided Training of CTC towards Efficient and Accurate Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6735)
   - 训练的时候用Attention分支辅助CTC，测试的时候只用CTC
 - **AAAI-2020, 引用数：28**:[Textscanner: Reading characters in order for robust scene text recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6891)
