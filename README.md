@@ -12,8 +12,8 @@
    <strong><a href="#code">Code </a></strong>
 </p>
 
-### What's New Today🧐
-- New Datasets Updated✨
+### What's New Today
+- New Datasets Updated
 
 ## Contents
 - [1. Papers](#1papers)
