@@ -172,7 +172,7 @@
     - MORAN v2版本。更加稳定的单阶段训练，更换ResNet做backbone，使用双向解码器
 ****
 
-<h2 id='sota'>4.SOTA</h2>
+<h2 id='sota'>4.SOTAs</h2>
 
 #### All the models are evaluated in a lexicon-free manner
 
