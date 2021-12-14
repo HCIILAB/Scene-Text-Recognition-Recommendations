@@ -11,10 +11,8 @@
    <strong><a href="./datasets.md">Datasets </a></strong> •
    <strong><a href="#code">Code </a></strong>
 </p>
-
-### What's New Today
-- New Datasets Updated
-
+### What's New Today🧐
+- New Datasets Updated✨
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
@@ -25,7 +23,7 @@
   - [3.2 Algorithms](#32-algorithms)
 - [4.SOTA](#4sota)
 ## 1.Papers
-**[All Papers Can be Find Here](./papers.md)**
+**[😴😴😴🥱🥱All Papers Can be Find Here😀😀😀😄😃](./papers.md)**
 - **Latest Papers**:
 
 <details open>
@@ -63,7 +61,7 @@
 
 <h2 id='datasets'>2.Datasets</h2>
 
-**[All Datasets Can be Find Here](./datasets.md)**
+**[🍔🍕🍟🌭🍿🧂 All Datasets Can be Find Here 🥓🥯🥐🍞🧈🍖](./datasets.md)**
 ### 2.1 Synthetic Training Datasets
 |Dataset|Description|Examples|BaiduNetdisk link|
 |----|----|----|----|
@@ -82,7 +80,8 @@
 |CUTE80(CUTE)|**288** It focuses on curved text recognition. Most images in CUTE have acomplex background, perspective distortion, and poor resolution|![CUTE](./Dataset_images/CUTE.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
 ****
 ### 2.3 Other Real Datasets
- 
+- **The Real Datasets refer to this repo [ku21fan/STR-Fewer-Labels](https://github.com/ku21fan/STR-Fewer-Labels)**
+  
 |Dataset|Description|Examples|BaiduNetdisk link|
 |----|----|----|----|
 |**COCO-Text**|**39K** Created from the MS COCO dataset. As the MS COCO dataset is not intended to capture text. COCO contains many occluded or low-resolution texts|![IIIT5K](./Dataset_images/COCO1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
@@ -174,6 +173,8 @@
 ****
 
 <h2 id='sota'>4.SOTA</h2>
+
+#### All the models are evaluated in a lexicon-free manner
 
 <table border="0" cellpadding="0" cellspacing="0" width="840" style="border-collapse:
  collapse;table-layout:fixed;width:629pt">
@@ -391,9 +392,24 @@
   <td class="xl65">-</td>
   <td class="xl65">95.5</td>
   <td class="xl65">-</td>
-  <td class="xl65"></strong>84</strong></td>
+  <td class="xl65"><strong>84</strong></td>
   <td class="xl65">85.7</td>
   <td class="xl65">89.7</td>
+
+ </tr>
+ <tr height="18" style="height:13.8pt">
+  <td height="18" style="height:13.8pt"><a href="https://link.springer.com/article/10.1007/s11263-020-01411-1">Luo et al.</a><span style="mso-spacerun:yes">&nbsp;</span></td>
+  <td align="right">2021</td>
+  <td class="xl65">95.6</td>
+  <td class="xl65">90.6</td>
+  <td class="xl65">-</td>
+  <td class="xl65"> <strong>96.0</strong> </td>
+  <td class="xl65">83.9</td>
+  <td class="xl65">81.4</td>
+  <td class="xl65">85.1</td>
+  <td class="xl65">91.3</td>
+
+
 
  </tr>
  <tr height="18" style="height:13.8pt">
