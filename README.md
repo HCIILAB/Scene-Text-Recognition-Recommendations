@@ -23,7 +23,8 @@
   - [3.2 Algorithms](#32-algorithms)
 - [4.SOTA](#4sota)
 ## 1.Papers
-**[😴😴😴🥱🥱All Papers Can be Find Here😀😀😀😄😃](./papers.md)**
+- **[All Papers Can be Find Here](./papers.md)**
+
 - **Latest Papers**:
 
 <details open>
@@ -61,7 +62,7 @@
 
 <h2 id='datasets'>2.Datasets</h2>
 
-**[🍔🍕🍟🌭🍿🧂 All Datasets Can be Find Here 🥓🥯🥐🍞🧈🍖](./datasets.md)**
+**[ All Datasets Can be Find Here ](./datasets.md)**
 ### 2.1 Synthetic Training Datasets
 |Dataset|Description|Examples|BaiduNetdisk link|
 |----|----|----|----|
