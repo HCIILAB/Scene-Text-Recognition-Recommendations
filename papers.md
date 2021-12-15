@@ -78,6 +78,8 @@
   - 现有的attention方法采用最大似然损失函数，本文探讨输出概率分布和预测间的关系
 - **AAAI-2018, 引用数:103**:[Char-Net: A character-aware neural network for distorted scene text recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16327)
   - 加入单字检测分支。 
+- **AAAI-2018, 引用数:50**:[SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16270)
+  - 半监督端到端识别。
 - **TPAMI-2018, 引用数:329**:[ASTER: An Attentional Scene Text Recognizer
 with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/8395027)
   - Attention+Rectification经典之作
@@ -313,7 +315,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
   - 在Attention计算过程中引入门控机制
 - **AAAI-2018, 引用数:103**:[Char-Net: A character-aware neural network for distorted scene text recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16327)
   - 加入单字检测分支。 
-
+- **AAAI-2018, 引用数:50**:[SEE: Towards Semi-Supervised End-to-End Scene Text Recognition](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16270)
+  - 半监督端到端识别。
 ****
 
 </details>
