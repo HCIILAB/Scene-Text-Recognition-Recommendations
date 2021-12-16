@@ -11,10 +11,8 @@
    <strong><a href="./datasets.md">Datasets </a></strong> •
    <strong><a href="#code">Code </a></strong>
 </p>
-
 ### What's New Today
 - New Datasets Updated
-
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
@@ -23,9 +21,9 @@
 - [3. Public Code](#3-public-code)
   - [3.1 Frameworks](#31-frameworks)
   - [3.2 Algorithms](#32-algorithms)
-- [4.SOTA](#4sota)
+- [4. SOTA](#4sota)
 
-## 1.Papers
+## 1. Papers
 **[All Papers Can be Find Here](./papers.md)**
 - **Latest Papers**:
 
@@ -62,7 +60,7 @@
 
 </details>
 
-<h2 id='datasets'>2.Datasets</h2>
+<h2 id='datasets'>2. Datasets</h2>
 
 **[ All Datasets Can be Find Here ](./datasets.md)**
 ### 2.1 Synthetic Training Datasets
@@ -175,7 +173,7 @@
     - MORAN v2版本。更加稳定的单阶段训练，更换ResNet做backbone，使用双向解码器
 ****
 
-<h2 id='sota'>4.SOTA</h2>
+<h2 id='sota'>4. SOTAs</h2>
 
 #### All the models are evaluated in a lexicon-free manner
 
