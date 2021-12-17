@@ -59,7 +59,8 @@
 <details open>
 <summary id='attention'><strong>Attention</strong></summary>
 
-
+- **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
+  - 场景文字超分，引入笔画级别的监督
 - **ECCV-2020, 引用数:27**:[Robustscanner: Dynamically enhancing positional clues for robust text recognition](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9)
 - **CVPR-2020, 引用数:42**:[SCATTER: selective context attentional scene text recognizer](https://openaccess.thecvf.com/content_CVPR_2020/html/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.html)
   - 多阶段
@@ -302,6 +303,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='aaai'><strong>AAAI</strong></summary>
 
+- **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
+  - 场景文字超分，引入笔画级别的监督
 - **AAAI-2021,引用数:**:[SPIN: Structure-Preserving Inner Offset Network for Scene Text Recognition](https://arxiv.org/abs/2005.13117)
   - 图片送入网络前先在颜色上进行矫正
 - **AAAI-2020,引用数:27**:[GTC: Guided Training of CTC towards Efficient and Accurate Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6735)
