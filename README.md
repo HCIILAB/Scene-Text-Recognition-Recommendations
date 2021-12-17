@@ -29,6 +29,14 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2021-12-17)</strong></summary>
+
+- **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
+  - 场景文字超分，引入笔画级别的监督
+</details>
+
+
+<details open>
 <summary><strong>up to (2021-12-8)</strong></summary>
 
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
