@@ -13,7 +13,7 @@
 </p>
 
 ### What's New Today
-- New Datasets Updated
+- Add some public text synthetic engine. Check at [Datasets](./datasets.md)
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
