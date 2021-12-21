@@ -10,7 +10,7 @@
 - [2.Real Datasets](#2real-datasets)
   - [2.1.Benchmarks](#21benchmarks)
   - [2.2.Others](#22others-labeled-datasets)
-- [3.Synthetic Engine]()
+- [3.Synthetic Engine](#3-synthetic-engine)
 
 ## Visualize Dataset
 - We provide dataset in `lmdb` form which is quite often used in scene text recognition for fast disk loading. And the drawback is thatyou can't have access to picture in .JPG form without code.
@@ -53,13 +53,42 @@
   
 |Dataset|Description|Examples|BaiduNetdisk link|
 |----|----|----|----|
-|**COCO-Text**|**39K** Created from the MS COCO dataset. As the MS COCO dataset is not intended to capture text. COCO contains many occluded or low-resolution texts|![IIIT5K](./Dataset_images/COCO1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**RCTW**|**8186 in English**. RCTW is created for Reading Chinese Text in the Wild competition. We select those in english|![IIIT5K](./Dataset_images/RCTW1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**Uber-Text**|**92K**. Collecetd from Bing Maps Streetside. Many are house number, and some are text on signboards|![IIIT5K](./Dataset_images/Uber1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**Art**|**29K**. Art is created to recognize Arbitrary-shaped Text. Many are perspective or curved texts. It also includes Totaltext and CTW1500, which contain many rotated or curved texts|![IIIT5K](./Dataset_images/ArT2.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**LSVT**|**34K in English**. LSVT is a Large-scale Streeet View Text dataset, collected from streets in China. We select those in english|![IIIT5K](./Dataset_images/LSVT1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**MLT19**|**46K in English**. MLT19 is created to recognize Multi-Lingual Text. It consists of seven languages:Arabic, Latin, Chinese, Japanese, Korean, Bangla, and Hindi. We select those in english|![IIIT5K](./Dataset_images/MLT190.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**ReCTS**|**23K in English**. ReCTS is created for the Reading Chinese Text on Signboard competition. It contains many irregular texts arranged in various layouts or written with unique fonts. We select those in english|![IIIT5K](./Dataset_images/ReCTS2.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**COCO-Text**|**39K** Created from the MS COCO dataset. As the MS COCO dataset is not intended to capture text. COCO contains many occluded or low-resolution texts|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**RCTW**|**8186 in English**. RCTW is created for Reading Chinese Text in the Wild competition. We select those in english|![IIIT5K](./Dataset_images/RCTW1.JPG)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**Uber-Text**|**92K**. Collecetd from Bing Maps Streetside. Many are house number, and some are text on signboards|![IIIT5K](./Dataset_images/Uber1.JPG)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**Art**|**29K**. Art is created to recognize Arbitrary-shaped Text. Many are perspective or curved texts. It also includes Totaltext and CTW1500, which contain many rotated or curved texts|![IIIT5K](./Dataset_images/ArT2.JPG)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**LSVT**|**34K in English**. LSVT is a Large-scale Streeet View Text dataset, collected from streets in China. We select those in english|![IIIT5K](./Dataset_images/LSVT1.JPG)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**MLT19**|**46K in English**. MLT19 is created to recognize Multi-Lingual Text. It consists of seven languages:Arabic, Latin, Chinese, Japanese, Korean, Bangla, and Hindi. We select those in english|![IIIT5K](./Dataset_images/MLT190.JPG)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+|**ReCTS**|**23K in English**. ReCTS is created for the Reading Chinese Text on Signboard competition. It contains many irregular texts arranged in various layouts or written with unique fonts. We select those in english|![IIIT5K](./Dataset_images/ReCTS2.JPG)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
 
-### 3.Synthetic Engine
-- To tired today to do any more updating😫😫😪
+### 3. Synthetic Engine
+#### 3.1. Style Text(基于场景文字编辑的合成引擎)
+- **开源地址**:[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.4/StyleText/README_ch.md)
+- **特性**: 输入文本和风格文本图片，即可将风格文本图片中的文本替换为目标文本
+- ![img](Dataset_images/styletext.png)
+#### 3.2. Text Renderer (1k⭐)
+- **开源地址**:[Sanster/text_renderer](https://github.com/Sanster/text_renderer) , [New Version](https://github.com/oh-my-ocr/text_renderer)
+- **特性**: 可合成带有各种噪声的印刷体文本
+- <center> <img src="Dataset_images/img1.JPG" width =400>
+
+#### 3.3. SynthText (1.7k⭐)
+- **开源地址**:[ankush-me/SynthText](https://github.com/ankush-me/SynthText)
+- **特性**:合成场景文本，[SynthText](https://www.robots.ox.ac.uk/~vgg/data/scenetext/)数据集的合成引擎
+- <center> <img src="Dataset_images/img2.JPG" width =400>
+
+#### 3.4. SynthText Chinese Version (817⭐)
+- **开源地址**:[JarveeLee/SynthText_Chinese_version](https://github.com/JarveeLee/SynthText_Chinese_version)
+- **特性**:SynthText引擎用于合成中文场景文字数据
+- <center> <img src="Dataset_images/img3.JPG" width =400>
+
+#### 3.5. Text Recognition Data Generator (2.1k⭐)
+- **开源地址**:[Belval/TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
+- **特性**:可合成单字，文本行图像，手写体，中文韩文日文，弯曲文本
+- <center> <img src="Dataset_images/img4.JPG" width =400>
+- <center> <img src="Dataset_images/img5.JPG" width =400>
+- <center> <img src="Dataset_images/img6.JPG" width =400>
+
+#### 3.6. SynthText3D (118 ⭐)
+- **开源地址**:[MhLiao/SynthText3D](https://github.com/MhLiao/SynthText3D)
+- **特性**:合成文字3D的渲染到背景图片中去
+- <center> <img src="Dataset_images/img7.JPG" width =400>
