@@ -59,6 +59,8 @@
 <details open>
 <summary id='attention'><strong>Attention</strong></summary>
 
+- **arXiv-2021/12/16**:[TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://arxiv.org/abs/2111.08314)
+  - TPS + Transformer Encoder + Attention Decoder的组合。
 - **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
   - 场景文字超分，引入笔画级别的监督
 - **ECCV-2020, 引用数:27**:[Robustscanner: Dynamically enhancing positional clues for robust text recognition](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9)
