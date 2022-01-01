@@ -12,8 +12,8 @@
    <strong><a href="#code">Code </a></strong>
 </p>
 
-### What's New Today
-- Add some public text synthetic engine. Check at [Datasets](./datasets.md)
+## Happy New Year!
+
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
