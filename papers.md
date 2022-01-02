@@ -123,6 +123,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='language'><strong>Language Model</strong></summary>
 
+- **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
+  - 提升语言模型对于任意现状文本的识别能力
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
 - **arXiv-2021/11/30**: [Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features](https://arxiv.org/pdf/2111.15263.pdf)
   - 探讨语言模型和视觉模型如何更好的结合，比肩ABINet，取得SOTA
@@ -305,6 +307,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='aaai'><strong>AAAI</strong></summary>
 
+- **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
+  - 提升语言模型对于任意现状文本的识别能力
 - **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
   - 场景文字超分，引入笔画级别的监督
 - **AAAI-2021,引用数:**:[SPIN: Structure-Preserving Inner Offset Network for Scene Text Recognition](https://arxiv.org/abs/2005.13117)
