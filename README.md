@@ -12,8 +12,8 @@
    <strong><a href="#code">Code </a></strong>
 </p>
 
-## Happy New Year!
-
+### What's New Today
+- Add some public text synthetic engine. Check at [Datasets](./datasets.md)
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
@@ -28,6 +28,16 @@
 **[All Papers Can be Find Here](./papers.md)**
 
 - **Latest Papers**:
+<details open>
+<summary><strong>up to (2022-1-2)</strong></summary>
+
+- **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
+  - 提升语言模型对于任意现状文本的识别能力
+</details>
+
+
+<details open>
+
 
 <details open>
 <summary><strong>up to (2021-12-28)</strong></summary>
@@ -67,7 +77,7 @@
 
 </details>
 
-<details open>
+<details >
 <summary><strong>up to (2021-11-25)</strong></summary>
 
 - **ICCV-2021** [Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Joint_Visual_Semantic_Reasoning_Multi-Stage_Decoder_for_Text_Recognition_ICCV_2021_paper.html)
