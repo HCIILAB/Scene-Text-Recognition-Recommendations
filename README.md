@@ -4,7 +4,7 @@
     <img src="img/head.JPG" >
 </h1>
 
-<h4 align="center">Everythin about Scene Text Recognition</h4>
+<h4 align="center">Everything about Scene Text Recognition</h4>
 <p align="center">
    <strong><a href="#sota">SOTA </a></strong> •
    <strong><a href="./papers.md">Papers </a></strong> •
