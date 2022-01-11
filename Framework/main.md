@@ -77,7 +77,7 @@ bash scripts/CRNN/train.sh
 - **We also provide you with `Tensorboard` to check the training status**
 - To start the tensorboard:
   * If you are coding the `VSCode`, just open the file [lig/utils/logging](lib/utils/logging.py) and the VSCode will give you a message that it can open tensorboard file. How can you resist such a powerful compiler!
-  ![img/tensorboard.JPG](../img/tensorboard.JPG)
+  - ![img/tensorboard.JPG](../img/tensorboard.JPG)
   * Or you can open the tensorboard with the following commands
   ```Bash
   tensorboard --logdir="runs/train/exp1/train_tensorboard/"
