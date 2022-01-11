@@ -36,7 +36,7 @@
 - **Our Reimplementation:**
   * **Note**: We don't use the bidirectional decoder menthioned in the orginal paper
 - **Checkpoint**: [Checkpoint for ASTER, 提取码:DLVC](https://pan.baidu.com/s/1ICnUYxOXpDs-Ws3DdNXLfg)
-
+    
 ||IIIT5K|IC03|IC13|IC15|SVT|SVTP|CUTE|Average|
 |----|----|----|----|----|----|----|----|----|----|
 |ASTER_Original|92.67%|-|90.74%|76.1%|91.16%|78.76%|76.39%|
