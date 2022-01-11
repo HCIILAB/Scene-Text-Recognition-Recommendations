@@ -16,6 +16,12 @@
 ### What's New
 - **We have released a framework of STR in pytorch. ASTER and CRNN are reimplemented and you can build your own network with it**
 - **Check Here:**: [Framework](Frameworks/main.md)
+
+||IIIT5K|IC03|IC13|IC15|SVT|SVTP|CUTE|Average|
+|----|----|----|----|----|----|----|----|----|
+|CRNN_Original|78.2%|-|86.7%|-|80.8%|-|-|-|
+|CRNN_Reimplemented|91.63%|91.00%|89.75%|75.98%|85.63%|73.95%|78.47%|83.77%|
+
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
