@@ -1,0 +1,16 @@
+CUDA_VISIBLE_DEVICES=0,1 python main.py \
+  --synthetic_train_data_dir ../scene_text_train/CVPR2016 ../scene_text_train/NIPS2014 \
+  --test_data_dir ../scene_text_benchmarks/IIIT5K_3000 ../scene_text_benchmarks/ic03_867 ../scene_text_benchmarks/ic13_1015 ../scene_text_benchmarks/ic15_1811 ../scene_text_benchmarks/svt_647 ../scene_text_benchmarks/svt_p_645 ../scene_text_benchmarks/cute80_288\
+  --batch_size 512 \
+  --workers 4 \
+  --height 32 \
+  --width 100 \
+  --arch ResNet45 \
+  --decode_type CTC \
+  --with_lstm \
+  --max_len 25 \
+  --epochs 6 \
+  --stepLR 3 5 \
+  --alphabets lowercase \
+  --lower \
+  --iter_mode \

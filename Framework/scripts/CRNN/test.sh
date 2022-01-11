@@ -1,0 +1,15 @@
+CUDA_VISIBLE_DEVICES=0,1 python main.py \
+  --test_data_dir ../scene_text_benchmarks/IIIT5K_3000 \
+  --batch_size 512 \
+  --workers 4 \
+  --height 32 \
+  --width 100 \
+  --arch ResNet45 \
+  --decode_type CTC \
+  --with_lstm \
+  --max_len 25 \
+  --alphabets lowercase \
+  --lower \
+  --iter_mode \
+  --evaluate \
+  --resume weights/CRNN/model_best_acc_bias.pth.tar \
