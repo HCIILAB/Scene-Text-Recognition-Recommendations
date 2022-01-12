@@ -4,7 +4,7 @@
     <img src="../img/framework.JPG" >
 </h1>
 
-## Acknowledgment
+## Acknowledgement
 - **This framework is based on [ayumiymk/aster.pytorch](https://github.com/ayumiymk/aster.pytorch). Sincerely thanks to ayumiymk for his great contribution to the community of STR**
 
 ## Content
