@@ -76,6 +76,8 @@
 - **AAAI-2019，引用数:128**:[Show, attend and read: A simple and strong baseline for irregular text recognition](https://ojs.aaai.org/index.php/AAAI/article/view/4881)
   - 2D Attention
   - 在Attention计算过程中引入门控机制
+- **ICDAR-2019, 引用数:45**[NRTR: A No-Recurrence Sequence-to-Sequence Model For Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/8978180)
+  - 使用Transformer encoder和decoder
 - **ACM MM-2018, 引用数:44**:[Attention and language ensemble for scene text recognition with convolutional sequence modeling](https://dl.acm.org/doi/abs/10.1145/3240508.3240571)
 - **CVPR-2018, 引用数:93**:[Edit probability for scene text recognition](https://openaccess.thecvf.com/content_cvpr_2018/html/Bai_Edit_Probability_for_CVPR_2018_paper.html)
   - 现有的attention方法采用最大似然损失函数，本文探讨输出概率分布和预测间的关系
