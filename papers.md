@@ -66,6 +66,8 @@
 - **ECCV-2020, 引用数:27**:[Robustscanner: Dynamically enhancing positional clues for robust text recognition](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9)
 - **CVPR-2020, 引用数:42**:[SCATTER: selective context attentional scene text recognizer](https://openaccess.thecvf.com/content_CVPR_2020/html/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.html)
   - 多阶段
+- **CVPRWorkshop-2020, 引用数:28**:[On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Lee_On_Recognizing_Texts_of_Arbitrary_Shapes_With_2D_Self-Attention_CVPRW_2020_paper.html)
+  - Transformer encoder + decoder, 引入自适应的2D位置编码，对于旋转文字，多行文字有较好的鲁棒性
 - **AAAI-2020, 引用数：28**:[Textscanner: Reading characters in order for robust scene text recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6891)
   - 实例分割
 - **AAAI-2020, 引用数：67**:[Decoupled attention network for text recognition](https://ojs.aaai.org/index.php/AAAI/article/view/6903)
@@ -250,6 +252,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 - **CVPR-2020, 引用数:15**:[What Machines See Is Not What They Get: Fooling Scene Text Recognition Models with Adversarial Text Images](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_What_Machines_See_Is_Not_What_They_Get_Fooling_Scene_CVPR_2020_paper.html)
   - 探究STR中的对抗攻击问题
 - **CVPR-2020, 引用数:11**:[On Vocabulary Reliance in Scene Text Recognition](https://openaccess.thecvf.com/content_CVPR_2020/html/Wan_On_Vocabulary_Reliance_in_Scene_Text_Recognition_CVPR_2020_paper.html)
+- **CVPRWorkshop-2020, 引用数:28**:[On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Lee_On_Recognizing_Texts_of_Arbitrary_Shapes_With_2D_Self-Attention_CVPRW_2020_paper.html)
+  - Transformer encoder + decoder, 引入自适应的2D位置编码，对于旋转文字，多行文字有较好的鲁棒性
   - 在合成数据集上训练的识别器有字典依赖问题，本文探讨相关解决对策
 - **CVPR-2019, 引用数:165**:[ESIR: End-to-end scene text recognition via iterative image rectification](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
   - 迭代矫正
