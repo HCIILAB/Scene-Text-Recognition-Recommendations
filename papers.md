@@ -59,9 +59,10 @@
 <details open>
 <summary id='attention'><strong>Attention</strong></summary>
 
+- **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
+- **Patter Recognition-2021,引用数:23**:[Master: Multi-aspect non-local network for scene text recognition](https://arxiv.org/pdf/1910.02562.pdf?ref=https://githubhelp.com)
 - **arXiv-2021/12/16**:[TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://arxiv.org/abs/2111.08314)
   - TPS + Transformer Encoder + Attention Decoder的组合。
-- **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
   - 场景文字超分，引入笔画级别的监督
 - **ECCV-2020, 引用数:27**:[Robustscanner: Dynamically enhancing positional clues for robust text recognition](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9)
 - **CVPR-2020, 引用数:42**:[SCATTER: selective context attentional scene text recognizer](https://openaccess.thecvf.com/content_CVPR_2020/html/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.html)
@@ -106,6 +107,9 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='rectification'><strong>Rectification Model </strong></summary>
 
+- **BMCV-2021**:[An Adaptive Rectification Model for
+Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.com/assets/papers/1371.pdf)
+  - 提出新的矫正方法，在弯曲文本上效果好于TPS和MORAN
 - **ICCV-2019, 引用数:77**:[Symmetry-constrained Rectification Network for Scene Text Recognition](https://openaccess.thecvf.com/content_ICCV_2019/htmlYang_Symmetry-Constrained_Rectification_Network_for_Scene_Text_Recognition_ICCV_2019_paper.html)
   - 带限制的矫正网络
 - **CVPR-2019, 引用数:165**:[ESIR: End-to-end scene text recognition via iterative image rectification](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhan_ESIR_End-To-End_Scene_Text_Recognition_via_Iterative_Image_Rectification_CVPR_2019_paper.html)
@@ -196,6 +200,10 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
+  - 对比学习用于场景文字识别
+- **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
+  - 联邦学习用于场景文字识别
 - **AAAI-2021,引用数:**:[SPIN: Structure-Preserving Inner Offset Network for Scene Text Recognition](https://arxiv.org/abs/2005.13117)
   - 图片送入网络前先在颜色上进行矫正
 - **ICCV Workshop-2021**:[Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/html/Qiu_Meta_Self-Learning_for_Multi-Source_Domain_Adaptation_A_Benchmark_ICCVW_2021_paper.html)
@@ -313,6 +321,9 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='aaai'><strong>AAAI</strong></summary>
 
+- **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
+  - 对比学习用于场景文字识别
+- **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
   - 提升语言模型对于任意现状文本的识别能力
 - **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
@@ -381,6 +392,7 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='pr'><strong>Pattern Recognition</strong></summary>
 
+- **Patter Recognition-2021,引用数:23**:[Master: Multi-aspect non-local network for scene text recognition](https://arxiv.org/pdf/1910.02562.pdf?ref=https://githubhelp.com)
 - **Pattern Recognition-2020,引用数:3**:[Reinterpreting CTC training as iterative fitting](https://www.sciencedirect.com/science/article/pii/S0031320320301953)
   - 探讨CTC数学原理，将CTC Loss解释为交叉熵损失，较为理论
 - **Pattern Recognition-2018, 引用数:161**[MORAN: A Multi-Object Rectified Attention Network for Scene Text Recognition](https://www.sciencedirect.com/science/article/pii/S0031320319300263)
