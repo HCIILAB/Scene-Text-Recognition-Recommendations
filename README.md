@@ -69,17 +69,12 @@ Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.
 
 
 <details open>
-
-
-<details open>
 <summary><strong>up to (2021-12-28)</strong></summary>
 
 - **arXiv-2021/12/16**:[TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://arxiv.org/abs/2111.08314)
   - TPS + Transformer Encoder + Attention Decoder的组合。
 </details>
 
-
-<details open>
 
 <details open>
 <summary><strong>up to (2021-12-17)</strong></summary>
