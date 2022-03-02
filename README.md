@@ -17,15 +17,15 @@
 - **We have released a framework of STR in pytorch. ASTER and CRNN are reimplemented and you can build your own network with it**
 - **Check Here:**: [Framework](Framework/main.md)
 
-||IIIT5K|IC03|IC13|IC15|SVT|SVTP|CUTE|Average|
-|----|----|----|----|----|----|----|----|----|
-|CRNN_Original|78.2%|-|86.7%|-|80.8%|-|-|-|
-|CRNN_Reimplemented|91.63%|91.00%|89.75%|75.98%|85.63%|73.95%|78.47%|83.77%|
+|                    | IIIT5K | IC03   | IC13   | IC15   | SVT    | SVTP   | CUTE   | Average |
+| ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| CRNN_Original      | 78.2%  | -      | 86.7%  | -      | 80.8%  | -      | -      | -       |
+| CRNN_Reimplemented | 91.63% | 91.00% | 89.75% | 75.98% | 85.63% | 73.95% | 78.47% | 83.77%  |
 
-||IIIT5K|IC03|IC13|IC15|SVT|SVTP|CUTE|Average|
-|----|----|----|----|----|----|----|----|----|
-|ASTER_Original|92.67%|-|90.74%|76.1%|91.16%|78.76%|76.39%|-|
-|ASTER_Reimplemented|94.2%|94.00%|94.31%|82.22%|90.26%|83.72%|84.38%|89.013%|
+|                     | IIIT5K | IC03   | IC13   | IC15   | SVT    | SVTP   | CUTE   | Average |
+| ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
+| ASTER_Original      | 92.67% | -      | 90.74% | 76.1%  | 91.16% | 78.76% | 76.39% | -       |
+| ASTER_Reimplemented | 94.2%  | 94.00% | 94.31% | 82.22% | 90.26% | 83.72% | 84.38% | 89.013% |
 
 ## Contents
 - [1. Papers](#1papers)
@@ -41,6 +41,25 @@
 **[All Papers Can be Find Here](./papers.md)**
 
 - **Latest Papers**:
+
+<details open>
+<summary><strong>up to (2022-3-2)</strong></summary>
+
+- **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
+  - 联邦学习用于场景文字识别
+- **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
+  - 对比学习用于场景文字识别
+</details>
+
+<details open>
+<summary><strong>up to (2022-2-26)</strong></summary>
+
+- **BMCV-2021**:[An Adaptive Rectification Model for
+Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.com/assets/papers/1371.pdf)
+  - 提出新的矫正方法，在弯曲文本上效果好于TPS和MORAN
+
+</details>
+
 <details open>
 <summary><strong>up to (2022-1-2)</strong></summary>
 
@@ -70,21 +89,21 @@
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2021-12-8)</strong></summary>
 
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
 
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2021-12-3)</strong></summary>
 
 - **arXiv-2021/11/30**:[Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features](https://arxiv.org/pdf/2111.15263.pdf)
   - 引入语言模型，比肩ABINet
 - **arXiv-2021/11/24**: [Decoupling Visual-Semantic Feature Learning for Robust Scene Text Recognition](https://arxiv.org/pdf/2111.12351.pdf)
   - 华科阿里共同提出，将视觉和语义分开，解决vocabulary reliance问题
-- **arXiv-2021/1122**: [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011)
+- **arXiv-2021/11/22**: [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011)
 
 
 
@@ -107,34 +126,34 @@
 
 **[ All Datasets Can be Find Here ](./datasets.md)**
 ### 2.1 Synthetic Training Datasets
-|Dataset|Description|Examples|BaiduNetdisk link|
-|----|----|----|----|
-|SynthText|**9 million** synthetic text instance images from a set of 90k common English words. Words are rendered onto nartural images with random transformations|![SynthText](./Dataset_images/SynthText.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
-|MJSynth|**6 million** synthetic text instances. It's a generation of SynthText.|![MJText](./Dataset_images/MJSynth.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
+| Dataset   | Description                                                                                                                                              | Examples                                     | BaiduNetdisk link                                                                   |
+| --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------- |
+| SynthText | **9 million** synthetic text instance images from a set of 90k common English words. Words are rendered onto nartural images with random transformations | ![SynthText](./Dataset_images/SynthText.JPG) | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
+| MJSynth   | **6 million** synthetic text instances. It's a generation of SynthText.                                                                                  | ![MJText](./Dataset_images/MJSynth.JPG)      | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
 ****
 ### 2.2 Benchmarks
-|Dataset|Description|Examples|BaiduNetdisk link|
-|----|----|----|----|
-|IIIT5k-Words(IIIT5K)|**3000** test images instances. Take from street scenes and from originally-digital images|![IIIT5K](./Dataset_images/IIIT5K.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
-|Street View Text(SVT)|**647** test images instances. Some images are severely corrupted by noise, blur, and low resolution|![SVT](./Dataset_images/SVT.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
-|StreetViewText-Perspective(SVT-P)|**639** test images instances.  It is specifically designed to evaluate perspective distorted textrecognition. It is built based on the original SVT dataset by selecting the images at the sameaddress on Google Street View but with different view angles. Therefore, most text instancesare heavily distorted by the non-frontal view angle.|![SVTP](./Dataset_images/SVTP.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
-|ICDAR 2003(IC03)|**867** test image instances|![IC03](./Dataset_images/IC03.JPG)|[Scene text datasets(提取码:mfir)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
-|ICDAR 2013(IC13)|**1015** test images instances|![IC13](./Dataset_images/IC13.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
-|ICDAR 2015(IC15)|**2077** test images instances. As text images were taken by Google Glasses without ensuringthe image quality, most of the text is very small, blurred, and multi-oriented|![IC15](./Dataset_images/IC15.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
-|CUTE80(CUTE)|**288** It focuses on curved text recognition. Most images in CUTE have acomplex background, perspective distortion, and poor resolution|![CUTE](./Dataset_images/CUTE.JPG)|[Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ)|
+| Dataset                           | Description                                                                                                                                                                                                                                                                                                                                      | Examples                               | BaiduNetdisk link                                                                   |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------- | ----------------------------------------------------------------------------------- |
+| IIIT5k-Words(IIIT5K)              | **3000** test images instances. Take from street scenes and from originally-digital images                                                                                                                                                                                                                                                       | ![IIIT5K](./Dataset_images/IIIT5K.JPG) | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
+| Street View Text(SVT)             | **647** test images instances. Some images are severely corrupted by noise, blur, and low resolution                                                                                                                                                                                                                                             | ![SVT](./Dataset_images/SVT.JPG)       | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
+| StreetViewText-Perspective(SVT-P) | **639** test images instances.  It is specifically designed to evaluate perspective distorted textrecognition. It is built based on the original SVT dataset by selecting the images at the sameaddress on Google Street View but with different view angles. Therefore, most text instancesare heavily distorted by the non-frontal view angle. | ![SVTP](./Dataset_images/SVTP.JPG)     | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
+| ICDAR 2003(IC03)                  | **867** test image instances                                                                                                                                                                                                                                                                                                                     | ![IC03](./Dataset_images/IC03.JPG)     | [Scene text datasets(提取码:mfir)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
+| ICDAR 2013(IC13)                  | **1015** test images instances                                                                                                                                                                                                                                                                                                                   | ![IC13](./Dataset_images/IC13.JPG)     | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
+| ICDAR 2015(IC15)                  | **2077** test images instances. As text images were taken by Google Glasses without ensuringthe image quality, most of the text is very small, blurred, and multi-oriented                                                                                                                                                                       | ![IC15](./Dataset_images/IC15.JPG)     | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
+| CUTE80(CUTE)                      | **288** It focuses on curved text recognition. Most images in CUTE have acomplex background, perspective distortion, and poor resolution                                                                                                                                                                                                         | ![CUTE](./Dataset_images/CUTE.JPG)     | [Scene text datasets(提取码:emco)](https://pan.baidu.com/s/1PBJf-BtFa7mLkltIfTXPhQ) |
 ****
 ### 2.3 Other Real Datasets
 - **The Real Datasets refer to this repo [ku21fan/STR-Fewer-Labels](https://github.com/ku21fan/STR-Fewer-Labels)**
   
-|Dataset|Description|Examples|BaiduNetdisk link|
-|----|----|----|----|
-|**COCO-Text**|**39K** Created from the MS COCO dataset. As the MS COCO dataset is not intended to capture text. COCO contains many occluded or low-resolution texts|![IIIT5K](./Dataset_images/COCO1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**RCTW**|**8186 in English**. RCTW is created for Reading Chinese Text in the Wild competition. We select those in english|![IIIT5K](./Dataset_images/RCTW1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**Uber-Text**|**92K**. Collecetd from Bing Maps Streetside. Many are house number, and some are text on signboards|![IIIT5K](./Dataset_images/Uber1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**Art**|**29K**. Art is created to recognize Arbitrary-shaped Text. Many are perspective or curved texts. It also includes Totaltext and CTW1500, which contain many rotated or curved texts|![IIIT5K](./Dataset_images/ArT2.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**LSVT**|**34K in English**. LSVT is a Large-scale Streeet View Text dataset, collected from streets in China. We select those in english|![IIIT5K](./Dataset_images/LSVT1.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**MLT19**|**46K in English**. MLT19 is created to recognize Multi-Lingual Text. It consists of seven languages:Arabic, Latin, Chinese, Japanese, Korean, Bangla, and Hindi. We select those in english|![IIIT5K](./Dataset_images/MLT190.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
-|**ReCTS**|**23K in English**. ReCTS is created for the Reading Chinese Text on Signboard competition. It contains many irregular texts arranged in various layouts or written with unique fonts. We select those in english|![IIIT5K](./Dataset_images/ReCTS2.jpg)|[Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg)|
+| Dataset       | Description                                                                                                                                                                                                       | Examples                               | BaiduNetdisk link                                                      |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------- |
+| **COCO-Text** | **39K** Created from the MS COCO dataset. As the MS COCO dataset is not intended to capture text. COCO contains many occluded or low-resolution texts                                                             | ![IIIT5K](./Dataset_images/COCO1.jpg)  | [Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg) |
+| **RCTW**      | **8186 in English**. RCTW is created for Reading Chinese Text in the Wild competition. We select those in english                                                                                                 | ![IIIT5K](./Dataset_images/RCTW1.jpg)  | [Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg) |
+| **Uber-Text** | **92K**. Collecetd from Bing Maps Streetside. Many are house number, and some are text on signboards                                                                                                              | ![IIIT5K](./Dataset_images/Uber1.jpg)  | [Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg) |
+| **Art**       | **29K**. Art is created to recognize Arbitrary-shaped Text. Many are perspective or curved texts. It also includes Totaltext and CTW1500, which contain many rotated or curved texts                              | ![IIIT5K](./Dataset_images/ArT2.jpg)   | [Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg) |
+| **LSVT**      | **34K in English**. LSVT is a Large-scale Streeet View Text dataset, collected from streets in China. We select those in english                                                                                  | ![IIIT5K](./Dataset_images/LSVT1.jpg)  | [Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg) |
+| **MLT19**     | **46K in English**. MLT19 is created to recognize Multi-Lingual Text. It consists of seven languages:Arabic, Latin, Chinese, Japanese, Korean, Bangla, and Hindi. We select those in english                      | ![IIIT5K](./Dataset_images/MLT190.jpg) | [Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg) |
+| **ReCTS**     | **23K in English**. ReCTS is created for the Reading Chinese Text on Signboard competition. It contains many irregular texts arranged in various layouts or written with unique fonts. We select those in english | ![IIIT5K](./Dataset_images/ReCTS2.jpg) | [Others(提取码:DLVC)](https://pan.baidu.com/s/1o-7-zyUnwo44M4P6SzFkpg) |
 
 <h2 id='code'>3 Public Code</h2>
 
