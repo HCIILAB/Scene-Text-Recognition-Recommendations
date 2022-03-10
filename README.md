@@ -43,6 +43,15 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2022-3-10)</strong></summary>
+
+- **arXiv-2020**:[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
+  * 当识别种类数增大时，softmax embedding层就会更大，计算量也就会增大。本文提出使用汉明编码来进行解码，而不是使用one-hot进行解码
+</details>
+
+<details open>
+
+<details open>
 <summary><strong>up to (2022-3-2)</strong></summary>
 
 - **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
