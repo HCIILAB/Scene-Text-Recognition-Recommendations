@@ -60,11 +60,14 @@
 <summary id='attention'><strong>Attention</strong></summary>
 
 - **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
+  * 场景文本超分
+- **ICDAR2021**:[Representation and Correlation Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_11)
+- **Electronics 2021**: [TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://www.mdpi.com/2079-9292/10/22/2780)
 - **Patter Recognition-2021,引用数:23**:[Master: Multi-aspect non-local network for scene text recognition](https://arxiv.org/pdf/1910.02562.pdf?ref=https://githubhelp.com)
 - **arXiv-2021/12/16**:[TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://arxiv.org/abs/2111.08314)
   - TPS + Transformer Encoder + Attention Decoder的组合。
   - 场景文字超分，引入笔画级别的监督
-- **ECCV-2020, 引用数:27**:[Robustscanner: Dynamically enhancing positional clues for robust text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9)
+- **ECCV-2020, 引用数:27**:[Robustscanner: Dynamically enhancing positional clues for robust text recognition](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9)
 - **CVPR-2020, 引用数:42**:[SCATTER: selective context attentional scene text recognizer](https://openaccess.thecvf.com/content_CVPR_2020/html/Litman_SCATTER_Selective_Context_Attentional_Scene_Text_Recognizer_CVPR_2020_paper.html)
   - 多阶段
 - **CVPRWorkshop-2020, 引用数:28**:[On Recognizing Texts of Arbitrary Shapes with 2D Self-Attention](https://openaccess.thecvf.com/content_CVPRW_2020/html/w34/Lee_On_Recognizing_Texts_of_Arbitrary_Shapes_With_2D_Self-Attention_CVPRW_2020_paper.html)
@@ -206,13 +209,17 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
   - 联邦学习用于场景文字识别
 - **AAAI-2021,引用数:**:[SPIN: Structure-Preserving Inner Offset Network for Scene Text Recognition](https://arxiv.org/abs/2005.13117)
   - 图片送入网络前先在颜色上进行矫正
+- **arXiv-2021**:[Revisiting Classification Perspective on Scene Text Recognition](https://arxiv.org/abs/2102.10884)
+  * 把文本识别当作一个图像分类任务
+- **arXiv-2020**:[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
+  * 当识别种类数增大时，softmax embedding层就会更大，计算量也就会增大。本文提出使用汉明编码来进行解码，而不是使用one-hot进行解码
 - **ICCV Workshop-2021**:[Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/html/Qiu_Meta_Self-Learning_for_Multi-Source_Domain_Adaptation_A_Benchmark_ICCVW_2021_paper.html)
   - 构建了一个多域的中文数据集，定义为Domain Adaptation问题
 - **ICCV-2021, 引用数:3**:[Towards the Unseen: Iterative Text Recognition by Distilling from Errors](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Towards_the_Unseen_Iterative_Text_Recognition_by_Distilling_From_Errors_ICCV_2021_paper.html)
   - 重复学习预测错误的样本
 - **CVPR-2021, 引用数:1**:[Primitive Representation Learning for Scene Text Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Yan_Primitive_Representation_Learning_for_Scene_Text_Recognition_CVPR_2021_paper.html)
   - 表征学习
-- **CVPR-2021, 引用数:1**:[What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels)
+- **CVPR-2021, 引用数:1**:[What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels]([What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://openaccess.thecvf.com/content/CVPR2021/html/Baek_What_if_We_Only_Use_Real_Datasets_for_Scene_Text_CVPR_2021_paper.html))
   - 如果只用真实数据训练识别网络会怎样？
 - **CVPR-2021, 引用数:5**:[Sequence-to-Sequence Contrastive Learning for Text Recognition](https://openaccess.thecvf.com/content/CVPR2021/html/Aberdam_Sequence-to-Sequence_Contrastive_Learning_for_Text_Recognition_CVPR_2021_paper.html)
   - 首次在STR中引入对比学习的方法
