@@ -36,11 +36,25 @@
   - [3.1 Frameworks](#31-frameworks)
   - [3.2 Algorithms](#32-algorithms)
 - [4. SOTA](#4sota)
-
+----
 ## 1. Papers
 **[All Papers Can be Find Here](./papers.md)**
 
+----
+### OCR in CVPR2022
+- This is a new section to record OCR related papers in CVPR2022
+----
 - **Latest Papers**:
+
+<details open>
+<summary><strong>up to (2022-3-11)</strong></summary>
+
+- **arXiv-2022**:[Towards Open-Set Text Recognition via Label-to-Prototype Learning](https://arxiv.org/pdf/2203.05179)
+  * 当测试阶段遇到训练集中没有出现过的字符时，应该如何应对，场景文字识别中的开集问题
+- **arXiv-2022**:[Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.04814)
+- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
+</details>
+
 
 <details open>
 <summary><strong>up to (2022-3-10)</strong></summary>
@@ -51,7 +65,6 @@
 
 <details open>
 
-<details open>
 <summary><strong>up to (2022-3-2)</strong></summary>
 
 - **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
@@ -69,7 +82,7 @@ Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.
 
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-1-2)</strong></summary>
 
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
@@ -77,7 +90,7 @@ Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2021-12-28)</strong></summary>
 
 - **arXiv-2021/12/16**:[TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://arxiv.org/abs/2111.08314)
@@ -85,7 +98,7 @@ Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2021-12-17)</strong></summary>
 
 - **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
