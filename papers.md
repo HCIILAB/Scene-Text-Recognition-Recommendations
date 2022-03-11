@@ -203,6 +203,10 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **arXiv-2022**:[Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.04814)
+- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
+- **arXiv-2022**:[Towards Open-Set Text Recognition via Label-to-Prototype Learning](https://arxiv.org/pdf/2203.05179)
+  * 当测试阶段遇到训练集中没有出现过的字符时，应该如何应对，场景文字识别中的开集问题
 - **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
   - 对比学习用于场景文字识别
 - **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
