@@ -14,6 +14,7 @@
 </p>
 
 ### What's New
+- **We create a new section to record OCR-related papers in CVPR2022**
 - **We have released a framework of STR in pytorch. ASTER and CRNN are reimplemented and you can build your own network with it**
 - **Check Here:**: [Framework](Framework/main.md)
 
@@ -43,8 +44,20 @@
 ----
 ### OCR in CVPR2022
 - This is a new section to record OCR related papers in CVPR2022
+- `SSL, Recognition, repo available`:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://github.com/Canjie-Luo/Real-300K)
+- `Super-resolution, repo available`:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://github.com/mjq11302010044/TATT)
+- `Document, paper available`:[XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947)
+- `Font generation, unvaliable yet`:[Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator]()
+- `Text Spotter, unvaliable yet`:[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition]()
 ----
 - **Latest Papers**:
+
+<details open>
+<summary><strong>up to (2022-3-17)</strong></summary>
+
+- **arXiv-2022**:[Training Protocol Matters: Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)
+  * 通过搜索训练参数来提升现有模型性能
+</details>
 
 <details open>
 <summary><strong>up to (2022-3-11)</strong></summary>
@@ -73,7 +86,7 @@
   - 对比学习用于场景文字识别
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-2-26)</strong></summary>
 
 - **BMCV-2021**:[An Adaptive Rectification Model for
@@ -106,38 +119,7 @@ Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.
 </details>
 
 
-<details close>
-<summary><strong>up to (2021-12-8)</strong></summary>
 
-- **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
-
-</details>
-
-<details close>
-<summary><strong>up to (2021-12-3)</strong></summary>
-
-- **arXiv-2021/11/30**:[Multi-modal Text Recognition Networks: Interactive Enhancements between Visual and Semantic Features](https://arxiv.org/pdf/2111.15263.pdf)
-  - 引入语言模型，比肩ABINet
-- **arXiv-2021/11/24**: [Decoupling Visual-Semantic Feature Learning for Robust Scene Text Recognition](https://arxiv.org/pdf/2111.12351.pdf)
-  - 华科阿里共同提出，将视觉和语义分开，解决vocabulary reliance问题
-- **arXiv-2021/11/22**: [CDistNet: Perceiving Multi-Domain Character Distance for Robust Text Recognition](https://arxiv.org/abs/2111.11011)
-
-
-
-</details>
-
-<details >
-<summary><strong>up to (2021-11-25)</strong></summary>
-
-- **ICCV-2021** [Joint Visual Semantic Reasoning: Multi-Stage Decoder for Text Recognition](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Joint_Visual_Semantic_Reasoning_Multi-Stage_Decoder_for_Text_Recognition_ICCV_2021_paper.html)
-  - 多阶段+transformer识别器
-- **ICCV-2021** [From Two to One: A New Scene Text Recognizer with Visual Language Modeling Network](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_From_Two_to_One_A_New_Scene_Text_Recognizer_With_ICCV_2021_paper.html)
-  - 提出了一个新的遮挡文字数据集
-  - 弱监督的将语言模型融入进视觉模型中
-- **ICCV-2021** [Text is Text, No Matter What: Unifying Text Recognition using Knowledge Distillation](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Text_Is_Text_No_Matter_What_Unifying_Text_Recognition_Using_ICCV_2021_paper.html)
-  - 使用知识蒸馏将场景文字识别网络和手写体识别网络融入于一个网络中
-
-</details>
 
 <h2 id='datasets'>2. Datasets</h2>
 
