@@ -48,7 +48,7 @@
 - `Super-resolution, repo available`:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://github.com/mjq11302010044/TATT)
 - `Document, paper available`:[XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947)
 - `Font generation, unvaliable yet`:[Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator]()
-- `Text Spotter, unvaliable yet`:[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition]()
+- `Text Spotter, repo available`:[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://github.com/mxin262/SwinTextSpotter/graphs/contributors)
 ----
 - **Latest Papers**:
 
