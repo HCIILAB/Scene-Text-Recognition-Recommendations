@@ -44,8 +44,8 @@
 ----
 ### OCR in CVPR2022
 - This is a new section to record OCR related papers in CVPR2022
-- `SSL, Recognition, repo available`:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://github.com/Canjie-Luo/Real-300K)
-- `Super-resolution, repo available`:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://github.com/mjq11302010044/TATT)
+- `SSL, Recognition`:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://arxiv.org/pdf/2203.10492.pdf)
+- `Super-resolution`:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/pdf/2203.09388.pdf)
 - `Document, paper available`:[XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947)
 - `Font generation, unvaliable yet`:[Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator]()
 - `Text Spotter, repo available`:[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://github.com/mxin262/SwinTextSpotter/graphs/contributors)
