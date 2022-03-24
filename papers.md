@@ -222,7 +222,10 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
   - 场景文字超分，引入笔画级别的监督 
 - **CVPR2021**:[Scene Text Telescope: Text-Focused Scene Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.html) 
 
+- **ECCV2020**:[PlugNet: Degradation Aware Scene Text Recognition Supervised by a Pluggable Super-Resolution Unit](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_10)
+  * 可插拔超分模组
 </details>
+
 ****
 
 <details open>
