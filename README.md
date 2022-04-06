@@ -44,15 +44,16 @@
 ----
 ### OCR in CVPR2022
 - This is a new section to record OCR related papers in CVPR2022
+- `Scene Text Spotter`:[Text Spotting Transformers](https://arxiv.org/pdf/2204.01918.pdf)
 - `Scene Text detection`:[Few Could Be Better Than All:
 Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/pdf/2203.15221.pdf)
 - `Scene understanding`:[Knowledge Mining with Scene Text for Fine-Grained Recognition](https://arxiv.org/pdf/2203.14215.pdf)
 - `Handwritten mathematical expression recognition`: [Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/pdf/2203.01601.pdf)
 - `SSL, Recognition`:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://arxiv.org/pdf/2203.10492.pdf)
 - `Super-resolution`:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/pdf/2203.09388.pdf)
-- `Document, paper available`:[XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947)
+- `Document understanding`:[XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947)
 - `Font generation, unvaliable yet`:[Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator]()
-- `Text Spotter, repo available`:[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://github.com/mxin262/SwinTextSpotter/graphs/contributors)
+- `Scene Text Spotter`:[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://github.com/mxin262/SwinTextSpotter/graphs/contributors)
 ----
 - **Latest Papers**:
 
