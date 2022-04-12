@@ -131,6 +131,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='language'><strong>Language Model</strong></summary>
 
+- **CVPR-2022**:[IterVM: Iterative Vision Modeling Module for
+Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
   - 提升语言模型对于任意现状文本的识别能力
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
@@ -274,6 +276,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='cvpr'><strong>CVPR</strong></summary>
 
+- **CVPR-2022**:[IterVM: Iterative Vision Modeling Module for
+Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
 - **CVPR2022**:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/pdf/2203.09388.pdf)
   * 场景文字超分
 - **CVPR2022**:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://arxiv.org/pdf/2203.10492.pdf)

@@ -44,6 +44,8 @@
 ----
 ### OCR in CVPR2022
 - This is a new section to record OCR related papers in CVPR2022
+- `Scene Text recognition`:[IterVM: Iterative Vision Modeling Module for
+Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
 - `Scene Text Spotter`:[Text Spotting Transformers](https://arxiv.org/pdf/2204.01918.pdf)
 - `Scene Text detection`:[Few Could Be Better Than All:
 Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/pdf/2203.15221.pdf)
