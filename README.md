@@ -44,19 +44,35 @@
 ----
 ### OCR in CVPR2022
 - This is a new section to record OCR related papers in CVPR2022
-- `Scene Text Detection`:[Towards End-to-End Unified Scene Text Detection and Layout Analysis](https://arxiv.org/pdf/2203.15143.pdf)
-- `Scene Text Recognition`:[IterVM: Iterative Vision Modeling Module for
-Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
-- `Scene Text Spotter`:[Text Spotting Transformers](https://arxiv.org/pdf/2204.01918.pdf)
-- `Scene Text Ddetection`:[Few Could Be Better Than All:
-Feature Sampling and Grouping for Scene Text Detection](https://arxiv.org/pdf/2203.15221.pdf)
-- `Scene Understanding`:[Knowledge Mining with Scene Text for Fine-Grained Recognition](https://arxiv.org/pdf/2203.14215.pdf)
-- `Handwritten mathematical expression recognition`: [Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/pdf/2203.01601.pdf)
-- `SSL, Recognition`:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://arxiv.org/pdf/2203.10492.pdf)
-- `Super-resolution`:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/pdf/2203.09388.pdf)
-- `Document understanding`:[XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding](https://arxiv.org/abs/2203.06947)
-- `Font generation, unvaliable yet`:[Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator]()
-- `Scene Text Spotter`:[SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition](https://github.com/mxin262/SwinTextSpotter/graphs/contributors)
+#### Detection
+- Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection [[Paper](https://arxiv.org/abs/2203.15221)]
+
+#### Recognition
+- Open-set Text Recognition via Character-Context Decoupling [[Paper](https://arxiv.org/abs/2204.05535) [Code](https://github.com/lancercat/VSDF)]
+- Syntax-Aware Network for Handwritten Mathematical Expression Recognition [[Paper](https://arxiv.org/abs/2203.01601)]
+- Pushing the Performance Limit of Scene Text Recognizer without Human Annotation [[Paper](https://arxiv.org/abs/2204.07714)]
+- SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization [[Paper](https://arxiv.org/abs/2203.10492) [Dataset](https://github.com/Canjie-Luo/Real-300K)]
+
+#### End-to-end
+- SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition [[Paper](https://arxiv.org/abs/2203.10209) [Code](https://github.com/mxin262/SwinTextSpotter)]
+- Text Spotting Transformers [[Paper](https://arxiv.org/abs/2204.01918) [Code](https://github.com/mlpc-ucsd/TESTR)]
+- DEER: Detection-agnostic End-to-End Recognizer for Scene Text Spotting [[Paper](https://arxiv.org/abs/2203.05122)]
+
+#### Layout Analysis
+- XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding [[Paper](https://arxiv.org/abs/2203.06947)]
+- Towards End-to-End Unified Scene Text Detection and Layout Analysis [[Paper](https://arxiv.org/abs/2203.15143) [Code](https://github.com/google-research-datasets/hiertext)]
+- Aesthetic Text Logo Synthesis via Content-aware Layout Inferring [[Paper](https://arxiv.org/abs/2204.02701) [Code](https://github.com/yizhiwang96/TextLogoLayout)]
+
+#### Super-resolution
+- A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution [[Paper](https://arxiv.org/abs/2203.09388) [Code](https://github.com/mjq11302010044/TATT)]
+
+#### Font Generation
+- Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator
+- XMP-Font: Self-Supervised Cross-Modality Pre-training for Few-Shot Font Generation [[Paper](https://arxiv.org/abs/2204.05084) [Code](https://github.com/lfy523/XMP-Font)]
+
+#### Reasoning
+- Knowledge Mining with Scene Text for Fine-Grained Recognition [[Paper](https://arxiv.org/abs/2203.14215) [Code](https://github.com/lanfeng4659/KnowledgeMiningWithSceneText)]
+- ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [[Paper](https://arxiv.org/abs/2203.16778)]
 ----
 - **Latest Papers**:
 
