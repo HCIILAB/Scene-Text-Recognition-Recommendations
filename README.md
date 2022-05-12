@@ -46,6 +46,7 @@
 - This is a new section to record OCR related papers in CVPR2022
 #### Detection
 - Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection [[Paper](https://arxiv.org/abs/2203.15221)]
+- Vision-Language Pre-Training for Boosting Scene Text Detectors [[Paper](https://arxiv.org/abs/2204.13867)]
 
 #### Recognition
 - Open-set Text Recognition via Character-Context Decoupling [[Paper](https://arxiv.org/abs/2204.05535) [Code](https://github.com/lancercat/VSDF)]
@@ -75,6 +76,14 @@
 - ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [[Paper](https://arxiv.org/abs/2203.16778)]
 ----
 - **Latest Papers**:
+
+<details open>
+<summary><strong>up to (2022-5-12)</strong></summary>
+
+- **arXiv-2022**:[Multimodal Semi-Supervised Learning for Text Recognition](https://arxiv.org/abs/2205.03873)
+- **IJCAI-2022**:[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2205.00159)
+
+</details>
 
 <details open>
 <summary><strong>up to (2022-3-17)</strong></summary>
