@@ -24,7 +24,7 @@
 - **Paper**: [An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/7801919)
 - **Our Reimplementation:** 
   * **Note**: We use ResNet45 as the backbone of CRNN
-- **Checkpoint**: [Checkpoint for CRNN, 提取码;DLVC](https://pan.baidu.com/s/1AUWFXB8fI4uvn1mJZhEvpQ)
+- **Checkpoint**: [Checkpoint for CRNN, 提取码;DLVC](https://pan.baidu.com/s/1PkOAKf7p44XjLxeUqHj_IA)
   
 ||IIIT5K|IC03|IC13|IC15|SVT|SVTP|CUTE|Average|
 |----|----|----|----|----|----|----|----|----|
@@ -35,7 +35,7 @@
 - **Paper**: [ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/8395027)
 - **Our Reimplementation:**
   * **Note**: We don't use the bidirectional decoder menthioned in the orginal paper
-- **Checkpoint**: [Checkpoint for ASTER, 提取码:DLVC](https://pan.baidu.com/s/1ICnUYxOXpDs-Ws3DdNXLfg)
+- **Checkpoint**: [Checkpoint for ASTER, 提取码:DLVC](https://pan.baidu.com/s/1_EAtXS5YQsyCCnlJE2dPsA)
     
     
 ||IIIT5K|IC03|IC13|IC15|SVT|SVTP|CUTE|Average|
