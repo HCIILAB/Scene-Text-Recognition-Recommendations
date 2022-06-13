@@ -1,0 +1,11 @@
+editdistance==0.5.3
+einops==0.3.0
+lmdb==1.2.1
+matplotlib==3.3.3
+numpy==1.20.2
+Pillow==9.1.1
+six==1.15.0
+torch==1.8.1+cu102
+torchvision==0.9.1+cu102
+tqdm==4.56.2
+opencv_python==4.5.1.48
