@@ -42,7 +42,10 @@
 **[All Papers Can be Find Here](./papers.md)**
 
 ----
-### OCR in CVPR2022
+
+<details close>
+<summary><strong>OCR in CVPR2022</strong></summary>
+
 - This is a new section to record OCR related papers in CVPR2022
 #### Detection
 - Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection [[Paper](https://arxiv.org/abs/2203.15221)]
@@ -74,8 +77,20 @@
 #### Reasoning
 - Knowledge Mining with Scene Text for Fine-Grained Recognition [[Paper](https://arxiv.org/abs/2203.14215) [Code](https://github.com/lanfeng4659/KnowledgeMiningWithSceneText)]
 - ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [[Paper](https://arxiv.org/abs/2203.16778)]
+
+</details>
+
 ----
 - **Latest Papers**:
+
+<details open>
+<summary><strong>up to (2022-7-9)</strong></summary>
+
+- **arXiv-2022**:[MaskOCR: Text Recognition with Masked
+Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
+- **ACM-MM22**:[Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition](https://arxiv.org/pdf/2207.00193)
+
+</details>
 
 <details open>
 <summary><strong>up to (2022-5-12)</strong></summary>
@@ -102,14 +117,14 @@
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2022-3-10)</strong></summary>
 
 - **arXiv-2020**:[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
   * 当识别种类数增大时，softmax embedding层就会更大，计算量也就会增大。本文提出使用汉明编码来进行解码，而不是使用one-hot进行解码
 </details>
 
-<details open>
+<details close>
 
 <summary><strong>up to (2022-3-2)</strong></summary>
 

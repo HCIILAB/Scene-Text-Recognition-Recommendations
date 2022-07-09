@@ -61,6 +61,7 @@
 <details open>
 <summary id='attention'><strong>Attention</strong></summary>
 
+- **IJCAI-2022**:[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2205.00159)
 - **ICDAR2021**:[Representation and Correlation Enhanced Encoder-Decoder Framework for Scene Text Recognition](https://link.springer.com/chapter/10.1007/978-3-030-86337-1_11)
 - **Electronics 2021**: [TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://www.mdpi.com/2079-9292/10/22/2780)
 - **Patter Recognition-2021,引用数:23**:[Master: Multi-aspect non-local network for scene text recognition](https://arxiv.org/pdf/1910.02562.pdf?ref=https://githubhelp.com)
@@ -131,8 +132,7 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='language'><strong>Language Model</strong></summary>
 
-- **CVPR-2022**:[IterVM: Iterative Vision Modeling Module for
-Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
+
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
   - 提升语言模型对于任意现状文本的识别能力
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
@@ -196,12 +196,16 @@ Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
 
 </details>
 
-
+ 
 ****
 
 <details open>
 <summary id='ssl'><strong>Self Supervise</strong></summary>
 
+- **arXiv-2022**:[MaskOCR: Text Recognition with Masked
+Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
+- **ACM-MM22**:[Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition](https://arxiv.org/pdf/2207.00193)
+- **arXiv-2022**:[Multimodal Semi-Supervised Learning for Text Recognition](https://arxiv.org/abs/2205.03873)
 - **CVPR-2022**:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://arxiv.org/pdf/2203.10492.pdf)
   - 生成式对比学习
 - **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
@@ -233,7 +237,7 @@ Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
-
+- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
 - **arXiv-2022**:[Training Protocol Matters: Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)
   * 通过搜索训练参数来提升现有模型性能
 - **arXiv-2022**:[Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.04814)
@@ -276,8 +280,9 @@ Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
 <details open>
 <summary id='cvpr'><strong>CVPR</strong></summary>
 
-- **CVPR-2022**:[IterVM: Iterative Vision Modeling Module for
-Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
+- **CVPR2022**:[Pushing the Performance Limit of Scene Text Recognizer without Human Annotation](https://arxiv.org/abs/2204.07714)
+- **CVPR2022**:[Syntax-Aware Network for Handwritten Mathematical Expression Recognition](https://arxiv.org/abs/2203.01601)
+- **CVPR2022**:[Open-set Text Recognition via Character-Context Decoupling](https://arxiv.org/abs/2204.05535)
 - **CVPR2022**:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/pdf/2203.09388.pdf)
   * 场景文字超分
 - **CVPR2022**:[SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization](https://arxiv.org/pdf/2203.10492.pdf)
@@ -368,6 +373,7 @@ Scene Text Recognition](https://arxiv.org/pdf/2204.02630.pdf)
 
 <details open>
 <summary id='aaai'><strong>AAAI</strong></summary>
+
 
 - **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
   - 对比学习用于场景文字识别
