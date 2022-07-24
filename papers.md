@@ -132,7 +132,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='language'><strong>Language Model</strong></summary>
 
-
+- **ECCV-2022**:[Scene Text Recognition with
+Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
   - 提升语言模型对于任意现状文本的识别能力
 - **arXiv-2021/12/1**:[Visual-Semantic Transformer for Scene Text Recognition](https://arxiv.org/pdf/2112.00948.pdf)
@@ -364,6 +365,9 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='eccv'><strong>ECCV</strong></summary>
 
+- **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
+- **ECCV-2022**:[Scene Text Recognition with
+Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 - **ECCV-2020, 引用数:27**:[Robustscanner: Dynamically enhancing positional clues for robust text recognition](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_9)
 - **ECCV-2020,引用数:2**:[Variational Connectionist Temporal Classification](https://link.springer.com/chapter/10.1007/978-3-030-58604-1_28)
   - 提出变分CTC来增强网络对于非blank符号的学习
@@ -418,6 +422,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='others1'><strong>Others</strong></summary>
 
+- **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
   - Attention的解码时候的对齐是没有限制的，故引入CTC对Attention的对齐进行监督
 - **ACM MM-2018, 引用数:44**:[Attention and language ensemble for scene text recognition with convolutional sequence modeling](https://dl.acm.org/doi/abs/10.1145/3240508.3240571)
 - **IJCAI-2017, 引用数:124**:[Learning to read irregular text with attention mechanisms](http://personal.psu.edu/duh188/papers/Learning_to_Read_Irregular_Text_with_Attention_Mechanisms.pdf)

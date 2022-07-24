@@ -84,6 +84,14 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2022-7-24)</strong></summary>
+
+- **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
+- **ECCV-2022**:[Scene Text Recognition with
+Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
+</details>
+
+<details open>
 <summary><strong>up to (2022-7-9)</strong></summary>
 
 - **arXiv-2022**:[MaskOCR: Text Recognition with Masked
