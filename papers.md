@@ -238,6 +238,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
 - **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
 - **arXiv-2022**:[Training Protocol Matters: Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)
   * 通过搜索训练参数来提升现有模型性能
@@ -422,6 +423,7 @@ Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 <details open>
 <summary id='others1'><strong>Others</strong></summary>
 
+- **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
 - **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
   - Attention的解码时候的对齐是没有限制的，故引入CTC对Attention的对齐进行监督
 - **ACM MM-2018, 引用数:44**:[Attention and language ensemble for scene text recognition with convolutional sequence modeling](https://dl.acm.org/doi/abs/10.1145/3240508.3240571)
