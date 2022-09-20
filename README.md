@@ -13,21 +13,6 @@
    <strong><a href="Framework/main.md">Our Framework </a></strong>
 </p>
 
-### What's New
-- **We create a new section to record OCR-related papers in CVPR2022**
-- **We have released a framework of STR in pytorch. ASTER and CRNN are reimplemented and you can build your own network with it**
-- **Check Here:**: [Framework](Framework/main.md)
-
-|                    | IIIT5K | IC03   | IC13   | IC15   | SVT    | SVTP   | CUTE   | Average |
-| ------------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| CRNN_Original      | 78.2%  | -      | 86.7%  | -      | 80.8%  | -      | -      | -       |
-| CRNN_Reimplemented | 91.63% | 91.00% | 89.75% | 75.98% | 85.63% | 73.95% | 78.47% | 83.77%  |
-
-|                     | IIIT5K | IC03   | IC13   | IC15   | SVT    | SVTP   | CUTE   | Average |
-| ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------- |
-| ASTER_Original      | 92.67% | -      | 90.74% | 76.1%  | 91.16% | 78.76% | 76.39% | -       |
-| ASTER_Reimplemented | 94.2%  | 94.00% | 94.31% | 82.22% | 90.26% | 83.72% | 84.38% | 89.013% |
-
 ## Contents
 - [1. Papers](#1papers)
 - [2. Datasets](#2-datasets)
@@ -41,47 +26,20 @@
 ## 1. Papers
 **[All Papers Can be Find Here](./papers.md)**
 
-----
-
-<details close>
-<summary><strong>OCR in CVPR2022</strong></summary>
-
-- This is a new section to record OCR related papers in CVPR2022
-#### Detection
-- Few Could Be Better Than All: Feature Sampling and Grouping for Scene Text Detection [[Paper](https://arxiv.org/abs/2203.15221)]
-- Vision-Language Pre-Training for Boosting Scene Text Detectors [[Paper](https://arxiv.org/abs/2204.13867)]
-
-#### Recognition
-- Open-set Text Recognition via Character-Context Decoupling [[Paper](https://arxiv.org/abs/2204.05535) [Code](https://github.com/lancercat/VSDF)]
-- Syntax-Aware Network for Handwritten Mathematical Expression Recognition [[Paper](https://arxiv.org/abs/2203.01601)]
-- Pushing the Performance Limit of Scene Text Recognizer without Human Annotation [[Paper](https://arxiv.org/abs/2204.07714)]
-- SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization [[Paper](https://arxiv.org/abs/2203.10492) [Dataset](https://github.com/Canjie-Luo/Real-300K)]
-
-#### End-to-end
-- SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition [[Paper](https://arxiv.org/abs/2203.10209) [Code](https://github.com/mxin262/SwinTextSpotter)]
-- Text Spotting Transformers [[Paper](https://arxiv.org/abs/2204.01918) [Code](https://github.com/mlpc-ucsd/TESTR)]
-- DEER: Detection-agnostic End-to-End Recognizer for Scene Text Spotting [[Paper](https://arxiv.org/abs/2203.05122)]
-
-#### Layout Analysis
-- XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding [[Paper](https://arxiv.org/abs/2203.06947)]
-- Towards End-to-End Unified Scene Text Detection and Layout Analysis [[Paper](https://arxiv.org/abs/2203.15143) [Code](https://github.com/google-research-datasets/hiertext)]
-- Aesthetic Text Logo Synthesis via Content-aware Layout Inferring [[Paper](https://arxiv.org/abs/2204.02701) [Code](https://github.com/yizhiwang96/TextLogoLayout)]
-
-#### Super-resolution
-- A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution [[Paper](https://arxiv.org/abs/2203.09388) [Code](https://github.com/mjq11302010044/TATT)]
-
-#### Font Generation
-- Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator
-- XMP-Font: Self-Supervised Cross-Modality Pre-training for Few-Shot Font Generation [[Paper](https://arxiv.org/abs/2204.05084) [Code](https://github.com/lfy523/XMP-Font)]
-
-#### Reasoning
-- Knowledge Mining with Scene Text for Fine-Grained Recognition [[Paper](https://arxiv.org/abs/2203.14215) [Code](https://github.com/lanfeng4659/KnowledgeMiningWithSceneText)]
-- ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval [[Paper](https://arxiv.org/abs/2203.16778)]
-
-</details>
-
-----
 - **Latest Papers**:
+
+<details open>
+<summary><strong>up to (2022-9-20)</strong></summary>
+
+- **ECCV-2022**:[Levenshtein OCR](https://arxiv.org/pdf/2209.03594)
+- **ECCV-2022**:[Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592)
+- **arXiv-2022**:[A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://arxiv.org/pdf/2209.02397)
+- **arXiv-2022**:[Scene Text Recognition with Single-Point Decoding Network](https://arxiv.org/pdf/2209.01914)
+- **ECCV-2022-Technical-Report**:[Vision-Language Adaptive Mutual Decoder for OOV-STR](https://arxiv.org/pdf/2209.00859)
+- **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/pdf/2209.00641)
+- **ECCV-2022-Technical-Report**:[1st Place Solution to ECCV 2022 Challenge on Out of Vocabulary Scene Text Understanding: End-to-End Recognition of Out of Vocabulary Words](https://arxiv.org/pdf/2209.00224)
+- **ECCV-2022-Technical-Report**:[Runner-Up Solution to ECCV 2022 Challenge on Out of Vocabulary Scene Text Understanding: Cropped Word Recognition](https://arxiv.org/pdf/2208.02747)
+</details>
 
 <details open>
 <summary><strong>up to (2022-8-9)</strong></summary>
@@ -89,7 +47,6 @@
 - **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
 </details>
 
-<details open>
 
 <details open>
 <summary><strong>up to (2022-7-24)</strong></summary>
@@ -99,7 +56,7 @@
 Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-7-9)</strong></summary>
 
 - **arXiv-2022**:[MaskOCR: Text Recognition with Masked
@@ -108,7 +65,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-5-12)</strong></summary>
 
 - **arXiv-2022**:[Multimodal Semi-Supervised Learning for Text Recognition](https://arxiv.org/abs/2205.03873)
@@ -116,14 +73,14 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-3-17)</strong></summary>
 
 - **arXiv-2022**:[Training Protocol Matters: Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)
   * 通过搜索训练参数来提升现有模型性能
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-3-11)</strong></summary>
 
 - **arXiv-2022**:[Towards Open-Set Text Recognition via Label-to-Prototype Learning](https://arxiv.org/pdf/2203.05179)
@@ -158,32 +115,6 @@ Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.
   - 提出新的矫正方法，在弯曲文本上效果好于TPS和MORAN
 
 </details>
-
-<details close>
-<summary><strong>up to (2022-1-2)</strong></summary>
-
-- **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
-  - 提升语言模型对于任意现状文本的识别能力
-</details>
-
-
-<details close>
-<summary><strong>up to (2021-12-28)</strong></summary>
-
-- **arXiv-2021/12/16**:[TRIG: Transformer-Based Text Recognizer with Initial Embedding Guidance](https://arxiv.org/abs/2111.08314)
-  - TPS + Transformer Encoder + Attention Decoder的组合。
-</details>
-
-
-<details close>
-<summary><strong>up to (2021-12-17)</strong></summary>
-
-- **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
-  - 场景文字超分，引入笔画级别的监督
-</details>
-
-
-
 
 <h2 id='datasets'>2. Datasets</h2>
 

@@ -132,6 +132,8 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='language'><strong>Language Model</strong></summary>
 
+- **ECCV-2022**:[Levenshtein OCR](https://arxiv.org/pdf/2209.03594)
+- **ECCV-2022**:[Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592)
 - **ECCV-2022**:[Scene Text Recognition with
 Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://arxiv.org/pdf/2112.12916.pdf)
@@ -203,6 +205,7 @@ Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 <details open>
 <summary id='ssl'><strong>Self Supervise</strong></summary>
 
+- **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/pdf/2209.00641)
 - **arXiv-2022**:[MaskOCR: Text Recognition with Masked
 Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 - **ACM-MM22**:[Reading and Writing: Discriminative and Generative Modeling for Self-Supervised Text Recognition](https://arxiv.org/pdf/2207.00193)
@@ -238,6 +241,8 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **arXiv-2022**:[A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://arxiv.org/pdf/2209.02397)
+- **arXiv-2022**:[Scene Text Recognition with Single-Point Decoding Network](https://arxiv.org/pdf/2209.01914)
 - **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
 - **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
 - **arXiv-2022**:[Training Protocol Matters: Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)
@@ -366,6 +371,8 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='eccv'><strong>ECCV</strong></summary>
 
+- **ECCV-2022**:[Levenshtein OCR](https://arxiv.org/pdf/2209.03594)
+- **ECCV-2022**:[Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592)
 - **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
 - **ECCV-2022**:[Scene Text Recognition with
 Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
