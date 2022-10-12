@@ -177,18 +177,20 @@ Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.
     - SRN
     - NRTR
 ****
-#### MMOCR (商汤)
+#### MMOCR (OpenMMLab)
 - [open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)
 - **特性**(截取至MMOCR):
   - MMOCR 是基于 **PyTorch** 和 **mmdetection** 的开源工具箱，专注于文本检测，文本识别以及相应的下游任务，如关键信息提取。 它是 OpenMMLab 项目的一部分。
   - 该工具箱不仅支持文本检测和文本识别，还支持其下游任务，例如关键信息提取。
 - **支持算法(识别)**
-  - CRNN (TPAMI'2016)
-  - NRTR (ICDAR'2019)
-  - RobustScanner (ECCV'2020)
-  - SAR (AAAI'2019)
-  - SATRN (CVPR'2020 Workshop on Text and Documents in the Deep Learning Era)
-  - SegOCR (Manuscript'2021)
+   - ABINet (CVPR'2021)
+   - CRNN (TPAMI'2016)
+   - MASTER (PR'2021)
+   - NRTR (ICDAR'2019)
+   - RobustScanner (ECCV'2020)
+   - SAR (AAAI'2019)
+   - SATRN (CVPR'2020 Workshop on Text and Documents in the Deep Learning Era)
+   - SegOCR (Manuscript'2021)
 ****
 #### Deep Text Recognition Benchmark (ClovaAI)
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
