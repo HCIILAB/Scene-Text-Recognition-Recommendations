@@ -132,6 +132,9 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='language'><strong>Language Model</strong></summary>
 
+- **TIP-2022**:[PETR: Rethinking the Capability of Transformer-Based Language Model in Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9865996)
+- **ACCESS-2022**:[Scene Text Recognition with Semantics](https://arxiv.org/pdf/2210.10836.pdf)
+- **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19971)
 - **ECCV-2022**:[Levenshtein OCR](https://arxiv.org/pdf/2209.03594)
 - **ECCV-2022**:[Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592)
 - **ECCV-2022**:[Scene Text Recognition with
@@ -241,6 +244,8 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **TMM-2022**:[Dual Relation Network for Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9765383)
+- **ECCV-2022**:[Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_10.pdf)
 - **arXiv-2022**:[A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://arxiv.org/pdf/2209.02397)
 - **arXiv-2022**:[Scene Text Recognition with Single-Point Decoding Network](https://arxiv.org/pdf/2209.01914)
 - **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
@@ -371,6 +376,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='eccv'><strong>ECCV</strong></summary>
 
+- **ECCV-2022**:[Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_10.pdf)
 - **ECCV-2022**:[Levenshtein OCR](https://arxiv.org/pdf/2209.03594)
 - **ECCV-2022**:[Multi-Granularity Prediction for Scene Text Recognition](https://arxiv.org/pdf/2209.03592)
 - **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
@@ -386,7 +392,7 @@ Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 <details open>
 <summary id='aaai'><strong>AAAI</strong></summary>
 
-
+- **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19971)
 - **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
   - 对比学习用于场景文字识别
 - **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
@@ -471,6 +477,9 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 
 ### Others
 
+- **ACCESS-2022**:[Scene Text Recognition with Semantics](https://arxiv.org/pdf/2210.10836.pdf)
+- **TIP-2022**:[PETR: Rethinking the Capability of Transformer-Based Language Model in Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9865996)
+- **TMM-2022**:[Dual Relation Network for Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9765383)
 - **IJCV-2021, 引用数:156**:[Scene text detection and recognition: The deep learning era](https://link.springer.com/article/10.1007/s11263-020-01369-0)
 - **Neural Computing-2020, 引用数:17**:[Adaptive embedding gate for attention-based scene text recognition](https://www.sciencedirect.com/science/article/pii/S0925231219316510)
 - **IEEE Access-2019,引用数:30**:[Natural Scene Text Recognition Based on Encoder-Decoder Framework](https://ieeexplore.ieee.org/abstract/document/8713973)

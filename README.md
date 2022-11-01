@@ -29,6 +29,17 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2022-11-1)</strong></summary>
+
+- **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19971)
+- **ECCV-2022**:[Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_10.pdf)
+- **ACCESS-2022**:[Scene Text Recognition with Semantics](https://arxiv.org/pdf/2210.10836.pdf)
+- **TIP-2022**:[PETR: Rethinking the Capability of Transformer-Based Language Model in Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9865996)
+- **TMM-2022**:[Dual Relation Network for Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9765383)
+
+</details>
+
+<details close>
 <summary><strong>up to (2022-9-20)</strong></summary>
 
 - **ECCV-2022**:[Levenshtein OCR](https://arxiv.org/pdf/2209.03594)
@@ -41,14 +52,14 @@
 - **ECCV-2022-Technical-Report**:[Runner-Up Solution to ECCV 2022 Challenge on Out of Vocabulary Scene Text Understanding: Cropped Word Recognition](https://arxiv.org/pdf/2208.02747)
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-8-9)</strong></summary>
 
 - **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2022-7-24)</strong></summary>
 
 - **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
@@ -71,50 +82,6 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 - **arXiv-2022**:[Multimodal Semi-Supervised Learning for Text Recognition](https://arxiv.org/abs/2205.03873)
 - **IJCAI-2022**:[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2205.00159)
 
-</details>
-
-<details close>
-<summary><strong>up to (2022-3-17)</strong></summary>
-
-- **arXiv-2022**:[Training Protocol Matters: Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)
-  * 通过搜索训练参数来提升现有模型性能
-</details>
-
-<details close>
-<summary><strong>up to (2022-3-11)</strong></summary>
-
-- **arXiv-2022**:[Towards Open-Set Text Recognition via Label-to-Prototype Learning](https://arxiv.org/pdf/2203.05179)
-  * 当测试阶段遇到训练集中没有出现过的字符时，应该如何应对，场景文字识别中的开集问题
-- **arXiv-2022**:[Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.04814)
-- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
-</details>
-
-
-<details close>
-<summary><strong>up to (2022-3-10)</strong></summary>
-
-- **arXiv-2020**:[Hamming OCR: A Locality Sensitive Hashing Neural Network for Scene Text Recognition](https://arxiv.org/abs/2009.10874)
-  * 当识别种类数增大时，softmax embedding层就会更大，计算量也就会增大。本文提出使用汉明编码来进行解码，而不是使用one-hot进行解码
-</details>
-
-<details close>
-
-<summary><strong>up to (2022-3-2)</strong></summary>
-
-- **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
-  - 联邦学习用于场景文字识别
-- **AAAI-2022**:[Context-based Contrastive Learning for Scene Text Recognition](http://www.cse.cuhk.edu.hk/~byu/papers/C139-AAAI2022-ConCLR.pdf)
-  - 对比学习用于场景文字识别
-</details>
-
-<details close>
-<summary><strong>up to (2022-2-26)</strong></summary>
-
-- **BMCV-2021**:[An Adaptive Rectification Model for
-Arbitrary-Shaped Scene Text Recognition](https://www.bmvc2021-virtualconference.com/assets/papers/1371.pdf)
-  - 提出新的矫正方法，在弯曲文本上效果好于TPS和MORAN
-
-</details>
 
 <h2 id='datasets'>2. Datasets</h2>
 
