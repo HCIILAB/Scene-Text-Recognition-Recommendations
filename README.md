@@ -81,7 +81,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 
 - **arXiv-2022**:[Multimodal Semi-Supervised Learning for Text Recognition](https://arxiv.org/abs/2205.03873)
 - **IJCAI-2022**:[SVTR: Scene Text Recognition with a Single Visual Model](https://arxiv.org/abs/2205.00159)
-
+</details>
 
 <h2 id='datasets'>2. Datasets</h2>
 
