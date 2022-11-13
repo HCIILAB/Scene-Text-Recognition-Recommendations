@@ -31,6 +31,17 @@
 <details open>
 <summary><strong>up to (2022-11-1)</strong></summary>
 
+- **arxiv-2022**: [IterVM: Iterative Vision Modeling Module for Scene Text Recognition](https://arxiv.org/abs/2204.02630)
+- **Applied intelligence**:[Scene text recognition based on two-stage attention and multi-branch feature fusion module](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10489-022-04241-5&casa_token=XL4PmVEh-V8AAAAA:pjkxWr-fDSB68PnUAv8QJSn1Q4VFokVCGXwl-14VKuNX7XuRLTAGNiANpxTfXcph6GvAu9HHS2Kd9hp3atU)
+- **ICPR-2022**: [Portmanteauing Features for Scene Text Recognition](https://arxiv.org/pdf/2211.05036.pdf)
+- **ECCV-2022**: [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/pdf/2211.04963)
+- **BMCV-2022**: [Masked Vision-Language Transformers for Scene Text Recognition](https://arxiv.org/pdf/2211.04785)
+
+</details>
+
+<details open>
+<summary><strong>up to (2022-11-1)</strong></summary>
+
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19971)
 - **ECCV-2022**:[Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_10.pdf)
 - **ACCESS-2022**:[Scene Text Recognition with Semantics](https://arxiv.org/pdf/2210.10836.pdf)
