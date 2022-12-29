@@ -144,6 +144,9 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='language'><strong>Language Model</strong></summary>
 
+- **BMVC-2022**:[Visual-semantic transformer for scene text recognition](https://arxiv.org/abs/2112.00948)
+- **BMVC-2022**:[Parallel and Robust Text Rectifier for Scene Text Recognition](https://bmvc2022.mpi-inf.mpg.de/0770.pdf)
+- **ICFHR-2022**:[A Vision Transformer Based Scene Text Recognizer with Multi-grained Encoding and Decoding](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_14)
 - **TIP-2022**:[PETR: Rethinking the Capability of Transformer-Based Language Model in Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9865996)
 - **ACCESS-2022**:[Scene Text Recognition with Semantics](https://arxiv.org/pdf/2210.10836.pdf)
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19971)
@@ -257,6 +260,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **ECCV-2022**:[TextAdaIN: Paying Attention to Shortcut Learning in Text Recognizers](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_25)
 - **TMM-2022**:[Dual Relation Network for Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9765383)
 - **ECCV-2022**:[Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_10.pdf)
 - **arXiv-2022**:[A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://arxiv.org/pdf/2209.02397)
@@ -388,6 +392,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='eccv'><strong>ECCV</strong></summary>
 
+- **ECCV-2022**:[TextAdaIN: Paying Attention to Shortcut Learning in Text Recognizers](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_25)
 - **ECCV-2022**: [Pure Transformer with Integrated Experts for Scene Text Recognition](https://arxiv.org/pdf/2211.04963)
 - **ECCV-2022**:[Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_10.pdf)
 - **ECCV-2022**:[Levenshtein OCR](https://arxiv.org/pdf/2209.03594)
@@ -450,6 +455,9 @@ Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 <details open>
 <summary id='others1'><strong>Others</strong></summary>
 
+- **BMVC-2022**:[Visual-semantic transformer for scene text recognition](https://arxiv.org/abs/2112.00948)
+- **BMVC-2022**:[Parallel and Robust Text Rectifier for Scene Text Recognition](https://bmvc2022.mpi-inf.mpg.de/0770.pdf)
+- **ICFHR-2022**:[A Vision Transformer Based Scene Text Recognizer with Multi-grained Encoding and Decoding](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_14)
 - **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
 - **ECCV-2022**:[SGBANet: Semantic GAN and Balanced Attention Network for Arbitrarily Oriented Scene Text Recognition](https://arxiv.org/pdf/2207.10256.pdf)
   - Attention的解码时候的对齐是没有限制的，故引入CTC对Attention的对齐进行监督

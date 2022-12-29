@@ -29,6 +29,17 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2022-12-29)</strong></summary>
+
+- **BMVC-2022**:[Visual-semantic transformer for scene text recognition](https://arxiv.org/abs/2112.00948)
+- **BMVC-2022**:[Parallel and Robust Text Rectifier for Scene Text Recognition](https://bmvc2022.mpi-inf.mpg.de/0770.pdf)
+- **ICFHR-2022**:[A Vision Transformer Based Scene Text Recognizer with Multi-grained Encoding and Decoding](https://link.springer.com/chapter/10.1007/978-3-031-21648-0_14)
+- **ECCV-2022**:[TextAdaIN: Paying Attention to Shortcut Learning in Text Recognizers](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_25)
+
+</details>
+
+
+<details open>
 <summary><strong>up to (2022-11-1)</strong></summary>
 
 - **arxiv-2022**: [IterVM: Iterative Vision Modeling Module for Scene Text Recognition](https://arxiv.org/abs/2204.02630)
