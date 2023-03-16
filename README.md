@@ -29,6 +29,19 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2023-3-16)</strong></summary>
+
+- **arXiv-2023**:[CLIPTER: Looking at the Bigger Picture in Scene Text Recognition](https://arxiv.org/abs/2301.07464)
+- **ECCVW-2022**:[On calibration of scene-text recognition models](https://www.amazon.science/publications/on-calibration-of-scene-text-recognition-models)
+- **Others**:[STR transformer: a cross-domain transformer for scene text recognition](https://link.springer.com/article/10.1007/s10489-022-03728-5)
+- **TIP-2023**:[Text prior guided scene text image super-resolution](https://ieeexplore.ieee.org/abstract/document/10042236)
+- **Neurocomputing-2023**:[DPF-S2S: A novel dual-pathway-fusion-based sequence-to-sequence text recognition model](https://www.sciencedirect.com/science/article/pii/S0925231222015326)
+- **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.html)
+- **PR-2023**:[Towards open-set text recognition via label-to-prototype learning](https://www.sciencedirect.com/science/article/pii/S0031320322005891)
+</details>
+
+
+<details open>
 <summary><strong>up to (2022-12-29)</strong></summary>
 
 - **BMVC-2022**:[Visual-semantic transformer for scene text recognition](https://arxiv.org/abs/2112.00948)
@@ -50,7 +63,7 @@
 
 </details>
 
-<details open>
+<details close>
 <summary><strong>up to (2022-11-1)</strong></summary>
 
 - **AAAI-2022**:[Visual Semantics Allow for Textual Reasoning Better in Scene Text Recognition](https://ojs.aaai.org/index.php/AAAI/article/view/19971)

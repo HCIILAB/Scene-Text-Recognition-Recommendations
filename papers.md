@@ -223,6 +223,7 @@ Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 <details open>
 <summary id='ssl'><strong>Self Supervise</strong></summary>
 
+- **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.html)
 - **AAAI-2022**: [Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
 - **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/pdf/2209.00641)
 - **arXiv-2022**:[MaskOCR: Text Recognition with Masked
@@ -243,6 +244,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='sr'><strong>Super Resolution</strong></summary>
 
+- **TIP-2023**:[Text prior guided scene text image super-resolution](https://ieeexplore.ieee.org/abstract/document/10042236)
 - **CVPR-2022**:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/pdf/2203.09388.pdf)
 - **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
   * 场景文本超分
@@ -260,17 +262,18 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='others'><strong>Others</strong></summary>
 
+- **PR-2023**:[Towards open-set text recognition via label-to-prototype learning](https://www.sciencedirect.com/science/article/pii/S0031320322005891)
 - **ECCV-2022**:[TextAdaIN: Paying Attention to Shortcut Learning in Text Recognizers](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_25)
 - **TMM-2022**:[Dual Relation Network for Scene Text Recognition](https://ieeexplore.ieee.org/abstract/document/9765383)
 - **ECCV-2022**:[Background-Insensitive Scene Text Recognition with Text Semantic Segmentation](https://link.springer.com/content/pdf/10.1007/978-3-031-19806-9_10.pdf)
 - **arXiv-2022**:[A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data](https://arxiv.org/pdf/2209.02397)
 - **arXiv-2022**:[Scene Text Recognition with Single-Point Decoding Network](https://arxiv.org/pdf/2209.01914)
 - **ECCV-2022**:[Toward Understanding WordArt: Corner-Guided Transformer for Scene Text Recognition](https://arxiv.org/abs/2208.00438)
-- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
+- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)
 - **arXiv-2022**:[Training Protocol Matters: Towards Accurate Scene Text Recognition via Training Protocol Searching](https://arxiv.org/pdf/2203.06696.pdf)
   * 通过搜索训练参数来提升现有模型性能
 - **arXiv-2022**:[Text-DIAE: Degradation Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.04814)
-- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)]
+- **arXiv-2022**:[Invariant Autoencoders for Text Recognition and Document Enhancement](https://arxiv.org/pdf/2203.03382)
 - **arXiv-2022**:[Towards Open-Set Text Recognition via Label-to-Prototype Learning](https://arxiv.org/pdf/2203.05179)
   * 当测试阶段遇到训练集中没有出现过的字符时，应该如何应对，场景文字识别中的开集问题
 - **AAAI-2022**:[FedOCR: Efficient and Secure Federated Learning for Scene Text Recognition](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_6.pdf)
@@ -488,6 +491,7 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='pr'><strong>Pattern Recognition</strong></summary>
 
+- **PR-2023**:[Towards open-set text recognition via label-to-prototype learning](https://www.sciencedirect.com/science/article/pii/S0031320322005891)
 - **Patter Recognition-2021,引用数:23**:[Master: Multi-aspect non-local network for scene text recognition](https://arxiv.org/pdf/1910.02562.pdf?ref=https://githubhelp.com)
 - **Pattern Recognition-2020,引用数:3**:[Reinterpreting CTC training as iterative fitting](https://www.sciencedirect.com/science/article/pii/S0031320320301953)
   - 探讨CTC数学原理，将CTC Loss解释为交叉熵损失，较为理论
@@ -499,6 +503,12 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 
 ### Others
 
+- **TIP-2023**:[Text prior guided scene text image super-resolution](https://ieeexplore.ieee.org/abstract/document/10042236)
+- **Neurocomputing-2023**:[DPF-S2S: A novel dual-pathway-fusion-based sequence-to-sequence text recognition model](https://www.sciencedirect.com/science/article/pii/S0925231222015326)
+- **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.html)
+- **arXiv-2023**:[CLIPTER: Looking at the Bigger Picture in Scene Text Recognition](https://arxiv.org/abs/2301.07464)
+- **ECCVW-2022**:[On calibration of scene-text recognition models](https://www.amazon.science/publications/on-calibration-of-scene-text-recognition-models)
+- **Others**:[STR transformer: a cross-domain transformer for scene text recognition](https://link.springer.com/article/10.1007/s10489-022-03728-5)
 - **BMCV-2022**: [Masked Vision-Language Transformers for Scene Text Recognition](https://arxiv.org/pdf/2211.04785)
 - **Applied intelligence**:[Scene text recognition based on two-stage attention and multi-branch feature fusion module](https://idp.springer.com/authorize/casa?redirect_uri=https://link.springer.com/article/10.1007/s10489-022-04241-5&casa_token=XL4PmVEh-V8AAAAA:pjkxWr-fDSB68PnUAv8QJSn1Q4VFokVCGXwl-14VKuNX7XuRLTAGNiANpxTfXcph6GvAu9HHS2Kd9hp3atU)
 - **ICPR-2022**: [Portmanteauing Features for Scene Text Recognition](https://arxiv.org/pdf/2211.05036.pdf)
