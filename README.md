@@ -31,6 +31,16 @@
 <details open>
 <summary><strong>up to (2023-3-16)</strong></summary>
 
+- **IJCAI-2023**:[TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/pdf/2305.05322)
+- **IJCAI-2022**:[Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition](https://arxiv.org/pdf/2305.05140)
+- **ICDAR-2023**:[Scene Text Recognition with Image-Text Matching-guided Dictionary](https://arxiv.org/pdf/2305.04524)
+- **arXiv-2023**:[Improving Scene Text Recognition for Character-Level Long-Tailed Distribution](https://arxiv.org/pdf/2304.08592)
+</details>
+
+
+<details open>
+<summary><strong>up to (2023-3-16)</strong></summary>
+
 - **arXiv-2023**:[CLIPTER: Looking at the Bigger Picture in Scene Text Recognition](https://arxiv.org/abs/2301.07464)
 - **ECCVW-2022**:[On calibration of scene-text recognition models](https://www.amazon.science/publications/on-calibration-of-scene-text-recognition-models)
 - **Others**:[STR transformer: a cross-domain transformer for scene text recognition](https://link.springer.com/article/10.1007/s10489-022-03728-5)
@@ -41,7 +51,7 @@
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2022-12-29)</strong></summary>
 
 - **BMVC-2022**:[Visual-semantic transformer for scene text recognition](https://arxiv.org/abs/2112.00948)
@@ -52,7 +62,7 @@
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2022-11-1)</strong></summary>
 
 - **arxiv-2022**: [IterVM: Iterative Vision Modeling Module for Scene Text Recognition](https://arxiv.org/abs/2204.02630)

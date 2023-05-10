@@ -503,6 +503,10 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 
 ### Others
 
+- **IJCAI-2023**:[TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/pdf/2305.05322)
+- **IJCAI-2022**:[Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition](https://arxiv.org/pdf/2305.05140)
+- **ICDAR-2023**:[Scene Text Recognition with Image-Text Matching-guided Dictionary](https://arxiv.org/pdf/2305.04524)
+- **arXiv-2023**:[Improving Scene Text Recognition for Character-Level Long-Tailed Distribution](https://arxiv.org/pdf/2304.08592)
 - **TIP-2023**:[Text prior guided scene text image super-resolution](https://ieeexplore.ieee.org/abstract/document/10042236)
 - **Neurocomputing-2023**:[DPF-S2S: A novel dual-pathway-fusion-based sequence-to-sequence text recognition model](https://www.sciencedirect.com/science/article/pii/S0925231222015326)
 - **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.html)
