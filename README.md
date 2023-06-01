@@ -29,7 +29,15 @@
 - **Latest Papers**:
 
 <details open>
-<summary><strong>up to (2023-3-16)</strong></summary>
+<summary><strong>up to (2023-6-1)</strong></summary>
+
+- **arXiv-2023**:[GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation](https://arxiv.org/abs/2303.17870)
+- **arXiv-2023**:[TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855)
+- **arXiv-2023**:[DiffUTE: Universal Text Editing Diffusion Model](https://arxiv.org/abs/2305.10825)
+- **arXiv-2023**:[GlyphControl: Glyph Conditional Control for Visual Text Generation](https://arxiv.org/abs/2305.18259)
+
+<details open>
+<summary><strong>up to (2023-5-16)</strong></summary>
 
 - **IJCAI-2023**:[TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/pdf/2305.05322)
 - **IJCAI-2022**:[Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition](https://arxiv.org/pdf/2305.05140)
@@ -38,7 +46,7 @@
 </details>
 
 
-<details open>
+<details close>
 <summary><strong>up to (2023-3-16)</strong></summary>
 
 - **arXiv-2023**:[CLIPTER: Looking at the Bigger Picture in Scene Text Recognition](https://arxiv.org/abs/2301.07464)

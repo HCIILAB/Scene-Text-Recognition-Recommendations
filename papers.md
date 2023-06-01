@@ -16,6 +16,7 @@
   - [Survey](#survey)
   - [Self Supervise](#ssl)
   - [Super Resolution](#sr)
+  - [Diffusion Models](#df)
   - [Others](#others)
 - [Conference](#conference)
   - [CVPR](#cvpr)
@@ -258,6 +259,19 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 </details>
 
 ****
+
+<details open>
+<summary id='df'><strong>Diffusion models</strong></summary>
+
+- **arXiv-2023**:[GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation](https://arxiv.org/abs/2303.17870)
+- **arXiv-2023**:[TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855)
+- **arXiv-2023**:[DiffUTE: Universal Text Editing Diffusion Model](https://arxiv.org/abs/2305.10825)
+- **arXiv-2023**:[GlyphControl: Glyph Conditional Control for Visual Text Generation](https://arxiv.org/abs/2305.18259)
+
+</details>
+
+****
+
 
 <details open>
 <summary id='others'><strong>Others</strong></summary>
