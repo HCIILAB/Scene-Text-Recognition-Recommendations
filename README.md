@@ -23,10 +23,28 @@
   - [3.2 Algorithms](#32-algorithms)
 - [4. SOTA](#4sota)
 ----
+## Checkout Our New Work！
+[Revisiting Scene Text Recognition: A Data Perspective](https://github.com/Mountchicken/Union14M)
+<h1 align="center">
+    <br>
+    <img src="img/ours.png" width=800>
+</h1>
+
+---
 ## 1. Papers
 **[All Papers Can be Find Here](./papers.md)**
 
 - **Latest Papers**:
+
+<details open>
+<summary><strong>up to (2023-7-20)</strong></summary>
+
+- **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
+- **arXiv-2023**: [DiffusionSTR: Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2306.16707)
+  
+</details>
+
+
 
 <details open>
 <summary><strong>up to (2023-6-1)</strong></summary>
@@ -35,6 +53,8 @@
 - **arXiv-2023**:[TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855)
 - **arXiv-2023**:[DiffUTE: Universal Text Editing Diffusion Model](https://arxiv.org/abs/2305.10825)
 - **arXiv-2023**:[GlyphControl: Glyph Conditional Control for Visual Text Generation](https://arxiv.org/abs/2305.18259)
+</details>
+
 
 <details open>
 <summary><strong>up to (2023-5-16)</strong></summary>

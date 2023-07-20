@@ -224,6 +224,7 @@ Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 <details open>
 <summary id='ssl'><strong>Self Supervise</strong></summary>
 
+- **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
 - **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.html)
 - **AAAI-2022**: [Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
 - **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://arxiv.org/pdf/2209.00641)
@@ -384,6 +385,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='iccv'><strong>ICCV</strong></summary>
 
+- **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
 - **ICCV Workshop-2021**:[Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/html/Qiu_Meta_Self-Learning_for_Multi-Source_Domain_Adaptation_A_Benchmark_ICCVW_2021_paper.html)
   - 构建了一个多域的中文数据集，定义为Domain Adaptation问题
 - **ICCV-2021, 引用数:3**:[Towards the Unseen: Iterative Text Recognition by Distilling from Errors](https://openaccess.thecvf.com/content/ICCV2021/html/Bhunia_Towards_the_Unseen_Iterative_Text_Recognition_by_Distilling_From_Errors_ICCV_2021_paper.html)
