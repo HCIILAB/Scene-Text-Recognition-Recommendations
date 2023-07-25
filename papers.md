@@ -385,6 +385,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='iccv'><strong>ICCV</strong></summary>
 
+- **ICCV-2023**: [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758)
 - **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
 - **ICCV Workshop-2021**:[Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/html/Qiu_Meta_Self-Learning_for_Multi-Source_Domain_Adaptation_A_Benchmark_ICCVW_2021_paper.html)
   - 构建了一个多域的中文数据集，定义为Domain Adaptation问题
@@ -507,6 +508,7 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 <details open>
 <summary id='pr'><strong>Pattern Recognition</strong></summary>
 
+
 - **PR-2023**:[Towards open-set text recognition via label-to-prototype learning](https://www.sciencedirect.com/science/article/pii/S0031320322005891)
 - **Patter Recognition-2021,引用数:23**:[Master: Multi-aspect non-local network for scene text recognition](https://arxiv.org/pdf/1910.02562.pdf?ref=https://githubhelp.com)
 - **Pattern Recognition-2020,引用数:3**:[Reinterpreting CTC training as iterative fitting](https://www.sciencedirect.com/science/article/pii/S0031320320301953)
@@ -519,6 +521,7 @@ with Flexible Rectification](https://ieeexplore.ieee.org/abstract/document/83950
 
 ### Others
 
+- **ICCV-2023**: [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758)
 - **IJCAI-2023**:[TPS++: Attention-Enhanced Thin-Plate Spline for Scene Text Recognition](https://arxiv.org/pdf/2305.05322)
 - **IJCAI-2022**:[Linguistic More: Taking a Further Step toward Efficient and Accurate Scene Text Recognition](https://arxiv.org/pdf/2305.05140)
 - **ICDAR-2023**:[Scene Text Recognition with Image-Text Matching-guided Dictionary](https://arxiv.org/pdf/2305.04524)

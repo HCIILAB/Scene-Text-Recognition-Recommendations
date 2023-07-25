@@ -37,6 +37,13 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2023-7-25)</strong></summary>
+
+- **ICCV-2023**: [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758)
+
+</details>
+
+<details open>
 <summary><strong>up to (2023-7-20)</strong></summary>
 
 - **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
