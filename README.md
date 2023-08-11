@@ -37,6 +37,24 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2023-8-11)</strong></summary>
+
+- **ICCV-2023**: [A Benchmark for Chinese-English Scene Text Image Super-resolution](https://arxiv.org/abs/2308.03262)
+
+</details>
+
+
+<details open>
+<summary><strong>up to (2023-7-25)</strong></summary>
+
+- **ACMMM-2023**: [Relational Contrastive Learning for Scene Text Recognition](https://arxiv.org/abs/2308.00508)
+- **arXiv-2023**: [HiREN: Towards Higher Supervision Quality for Better Scene Text Image Super-Resolution](https://arxiv.org/abs/2307.16410)
+- **arXiv-2023**: [Context Perception Parallel Decoder for Scene Text Recognition](https://arxiv.org/abs/2307.12270)
+- **IJCAI-2023**: [Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement](https://arxiv.org/abs/2307.09749)
+
+</details>
+
+<details open>
 <summary><strong>up to (2023-7-25)</strong></summary>
 
 - **ICCV-2023**: [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758)

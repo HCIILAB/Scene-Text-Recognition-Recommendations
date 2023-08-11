@@ -246,6 +246,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='sr'><strong>Super Resolution</strong></summary>
 
+- **ICCV-2023**: [A Benchmark for Chinese-English Scene Text Image Super-resolution](https://arxiv.org/abs/2308.03262)
 - **TIP-2023**:[Text prior guided scene text image super-resolution](https://ieeexplore.ieee.org/abstract/document/10042236)
 - **CVPR-2022**:[A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution](https://arxiv.org/pdf/2203.09388.pdf)
 - **AAAI-2022**:[Text Gestalt: Stroke-Aware Scene Text Image Super-Resolution](https://arxiv.org/pdf/2112.08171.pdf)
@@ -385,6 +386,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='iccv'><strong>ICCV</strong></summary>
 
+- **ICCV-2023**: [A Benchmark for Chinese-English Scene Text Image Super-resolution](https://arxiv.org/abs/2308.03262)
 - **ICCV-2023**: [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758)
 - **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
 - **ICCV Workshop-2021**:[Meta Self-Learning for Multi-Source Domain Adaptation: A Benchmark](https://openaccess.thecvf.com/content/ICCV2021W/ILDAV/html/Qiu_Meta_Self-Learning_for_Multi-Source_Domain_Adaptation_A_Benchmark_ICCVW_2021_paper.html)
