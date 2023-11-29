@@ -37,6 +37,14 @@
 - **Latest Papers**:
 
 <details open>
+<summary><strong>up to (2023-11-29)</strong></summary>
+
+- **ICCV-2023**: [Self-supervised Character-to-Character Distillation for Text Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Guan_Self-Supervised_Character-to-Character_Distillation_for_Text_Recognition_ICCV_2023_paper.pdf)
+
+</details>
+
+
+<details open>
 <summary><strong>up to (2023-8-11)</strong></summary>
 
 - **ICCV-2023**: [A Benchmark for Chinese-English Scene Text Image Super-resolution](https://arxiv.org/abs/2308.03262)

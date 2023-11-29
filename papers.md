@@ -224,6 +224,7 @@ Permuted Autoregressive Sequence Models](https://arxiv.org/abs/2207.06966)
 <details open>
 <summary id='ssl'><strong>Self Supervise</strong></summary>
 
+- **ICCV-2023**: [Self-supervised Character-to-Character Distillation for Text Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Guan_Self-Supervised_Character-to-Character_Distillation_for_Text_Recognition_ICCV_2023_paper.pdf)
 - **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
 - **WACV-2023**:[Seq-UPS: Sequential Uncertainty-aware Pseudo-label Selection for Semi-Supervised Text Recognition](https://openaccess.thecvf.com/content/WACV2023/html/Patel_Seq-UPS_Sequential_Uncertainty-Aware_Pseudo-Label_Selection_for_Semi-Supervised_Text_Recognition_WACV_2023_paper.html)
 - **AAAI-2022**: [Perceiving Stroke-Semantic Context: Hierarchical Contrastive Learning for Robust Scene Text Recognition](https://www.aaai.org/AAAI22Papers/AAAI-785.LiuH.pdf)
@@ -386,6 +387,7 @@ Encoder-Decoder Pretraining](https://arxiv.org/pdf/2206.00311)
 <details open>
 <summary id='iccv'><strong>ICCV</strong></summary>
 
+- **ICCV-2023**: [Self-supervised Character-to-Character Distillation for Text Recognition](https://openaccess.thecvf.com/content/ICCV2023/papers/Guan_Self-Supervised_Character-to-Character_Distillation_for_Text_Recognition_ICCV_2023_paper.pdf)
 - **ICCV-2023**: [A Benchmark for Chinese-English Scene Text Image Super-resolution](https://arxiv.org/abs/2308.03262)
 - **ICCV-2023**: [MRN: Multiplexed Routing Network for Incremental Multilingual Text Recognition](https://arxiv.org/abs/2305.14758)
 - **ICCV-2023**: [Revisiting Scene Text Recognition: A Data Perspective](https://arxiv.org/abs/2307.08723)
